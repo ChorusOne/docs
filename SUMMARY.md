@@ -15,3 +15,4 @@
 * [Kava](staking-guides/kava.md)
 * [Kusama](staking-guides/kusama.md)
 * [Mina](staking-guides/mina.md)
+* [Near](staking-guides/near.md)

@@ -29,7 +29,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
 
-![](<../.gitbook/assets/image (70) (1) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (25).png>)
 
@@ -60,7 +60,7 @@ Enter an account name and a passphrase to unlock your wallet. You will be asked 
 
 Finally, click on `Next` to create your account
 
-![](<../.gitbook/assets/image (55) (1) (1).png>)
+![](<../.gitbook/assets/image (55) (1) (1) (1).png>)
 
 ### 3. Log in to your account
 
@@ -78,11 +78,11 @@ To stake click on the Kava network in the left panel and click on `Stake`&#x20;
 
 You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage.`![](broken-reference)``
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
 A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.&#x20;
 
-![](<../.gitbook/assets/image (68) (1).png>)
+![](<../.gitbook/assets/image (68) (1) (1).png>)
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
@@ -100,4 +100,4 @@ Once your transaction is approved you will be able to see your Kava getting stak
 
 After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-![](<../.gitbook/assets/image (56) (1).png>)
+![](<../.gitbook/assets/image (56) (1) (1).png>)
