@@ -27,19 +27,19 @@ Since it is recommended by Polkadot / Kusama for most users to use the Polkadot.
 
 Make sure to install the Polkadot.js Browser Extension before you get started. You can download the extension for [Chrome/Brave](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd?hl=en) and [FireFox](https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/).
 
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (70) (1).png>)
 
 ### Step 1: Create a Kusama Account <a href="#1e2f" id="1e2f"></a>
 
 Once you successfully installed the extension, click on the icon for Poladot extension - a `P` button in your browser bar to open the interface. You will be prompted to create an account if you don't have one already.
 
-![](<../.gitbook/assets/image (61).png>)
+![](<../.gitbook/assets/image (61) (1).png>)
 
 Click the little _Gear Icon_ in the upper right corner and choose `Kusama Relay Chain` under `Display Address Format For`.&#x20;
 
 Then, click on the `+` Icon followed by `Create new account`. Uncheck the box next to “Derive new account from existing” & click “Create an account from new seed”.
 
-![](<../.gitbook/assets/image (49).png>)![](<../.gitbook/assets/image (60).png>)![](<../.gitbook/assets/image (65).png>)![](<../.gitbook/assets/image (75).png>)
+![](<../.gitbook/assets/image (49).png>)![](<../.gitbook/assets/image (60) (1).png>)![](<../.gitbook/assets/image (65) (1).png>)![](<../.gitbook/assets/image (75).png>)
 
 Write down your mnemonic seed phrase and **securely store it**. Whoever has access to the mnemonic seed also has access to your funds! Check the box on the bottom and click “Next step”. Choose a descriptive name for your Stash account as well as a strong password. Then click “Add the account with the generated seed”.
 

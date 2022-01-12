@@ -14,3 +14,4 @@
 * [Juno](staking-guides/juno.md)
 * [Kava](staking-guides/kava.md)
 * [Kusama](staking-guides/kusama.md)
+* [Mina](staking-guides/mina.md)

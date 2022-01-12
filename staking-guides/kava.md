@@ -29,7 +29,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
 
-![](<../.gitbook/assets/image (70) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (25).png>)
 
@@ -60,13 +60,13 @@ Enter an account name and a passphrase to unlock your wallet. You will be asked 
 
 Finally, click on `Next` to create your account
 
-![](<../.gitbook/assets/image (55) (1).png>)
+![](<../.gitbook/assets/image (55) (1) (1).png>)
 
 ### 3. Log in to your account
 
 Regardless of whether you already have an account or if you created it just now you may now click on the extension to view your address or visit[ ](https://wallet.keplr.app/#/kava/stake)[https://wallet.keplr.app/#/kava/stake](https://wallet.keplr.app/#/kava/stake) to see the full dashboard
 
-![](<../.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (71) (1).png>)
 
 ### 4. Stake your KAVA
 
@@ -82,17 +82,17 @@ You will be shown a list of validators with whom to stake on the right side. Scr
 
 A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.&#x20;
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../.gitbook/assets/image (68) (1).png>)
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
-![](<../.gitbook/assets/image (72) (1).png>)
+![](<../.gitbook/assets/image (72) (1) (1).png>)
 
 {% hint style="danger" %}
 There is a 21-day unbonding process for staked ATOMs during which delegator ATOMs do not earn rewards and cannot be transferred, exchanged, or spent. ATOMs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-![](<../.gitbook/assets/image (52) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1).png>)
 
 Once your transaction is approved you will be able to see your Kava getting staked. **Congratulations you have successfully staked your $KAVA!!**
 
