@@ -13,3 +13,4 @@
 * [Injective](staking-guides/injective.md)
 * [Juno](staking-guides/juno.md)
 * [Kava](staking-guides/kava.md)
+* [Kusama](staking-guides/kusama.md)

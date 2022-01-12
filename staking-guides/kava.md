@@ -29,7 +29,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
 
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (70) (1).png>)
 
 ![](<../.gitbook/assets/image (25).png>)
 
@@ -56,11 +56,11 @@ You will be shown 12 words as your mnemonic seed. Select`24 words` option for a 
 
 Enter an account name and a passphrase to unlock your wallet. You will be asked for the mnemonic again. Enter the 24 words in order. This is to make sure you remember the mnemonic.
 
-![](<../.gitbook/assets/image (50).png>)\`
+![](<../.gitbook/assets/image (50) (1).png>)\`
 
 Finally, click on `Next` to create your account
 
-![](<../.gitbook/assets/image (55).png>)
+![](<../.gitbook/assets/image (55) (1).png>)
 
 ### 3. Log in to your account
 
@@ -86,13 +86,13 @@ A modal with Chorus One's description will pop up. Click once on `Delegate` to e
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
-![](<../.gitbook/assets/image (72).png>)
+![](<../.gitbook/assets/image (72) (1).png>)
 
 {% hint style="danger" %}
 There is a 21-day unbonding process for staked ATOMs during which delegator ATOMs do not earn rewards and cannot be transferred, exchanged, or spent. ATOMs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (52) (1).png>)
 
 Once your transaction is approved you will be able to see your Kava getting staked. **Congratulations you have successfully staked your $KAVA!!**
 
@@ -100,4 +100,4 @@ Once your transaction is approved you will be able to see your Kava getting stak
 
 After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56) (1).png>)
