@@ -64,6 +64,10 @@ If the Private key is valid the modal will disappear, then will pop out an alert
 
 If you are using a Ledger, Clorio will send all the information of the delegation to your Ledger in order to sign them on the device.
 
+{% hint style="info" %}
+For instructions on how to install Ledger App for Mina visit [here](https://docs.minaprotocol.com/en/advanced/ledger-app-mina)
+{% endhint %}
+
 Please be sure that your Ledger is connected, Ledger Mina app is open and your device is unlocked and your [browser meets the minimum requirements](broken-reference).
 
 If there are no issues with the delegation data, Clorio will wait for the Ledger signature and then broadcast the transaction to the network.
@@ -77,3 +81,32 @@ After entering your private key or signing with Ledger you will see the message 
 ![](<../.gitbook/assets/image (66).png>)
 
 Congratulations you are now staking Mina!!
+
+### **5. (Optional) MINA **_**Staking with Command-Line Interface (CLI)**_
+
+If you are technically savvy and have a hardware wallet, we’ve included how to delegate to Mina using CLI.  First, if you haven’t already, you’ll need to [generate a keypair](https://minaprotocol.com/docs/keypair) and [connect to the network](https://minaprotocol.com/docs/connecting).&#x20;
+
+**Second, make sure you’ve unlocked your account and enter the following in the terminal:**
+
+```
+mina account unlock -public-key $MINA_PUBLIC_KEY
+```
+
+**Then run this command to delegate your stake:**
+
+```
+mina client delegate-stake \
+-receiver <DELEGATE-PUBLIC-KEY> \
+-sender $MINA_PUBLIC_KEY \
+-fee 0.1
+```
+
+* The receiver is the public key of the validators to receive your stake delegation.&#x20;
+* The sender is the public key of the account from which you want to delegate
+* The fee is the transaction fee required to record your transaction.
+
+**Chorus One's Public Key**: `B62qmFf6UZn2sg3j8bYLGmMinzS2FHX6hDM71nFxAfMhvh4hnGBtkBD`
+
+{% hint style="info" %}
+There is a 2-4 week delay (also known as a latency period) before your new stake delegation comes into effect.
+{% endhint %}
