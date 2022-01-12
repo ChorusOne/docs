@@ -12,3 +12,4 @@
 * [Helium](staking-guides/helium.md)
 * [Injective](staking-guides/injective.md)
 * [Juno](staking-guides/juno.md)
+* [Kava](staking-guides/kava.md)

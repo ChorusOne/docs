@@ -21,11 +21,11 @@ The Injective Chain is a layer-2 sidechain and Cosmos Zone connected to Ethereum
 
 ### 1. Connect Your Wallet <a href="#8662" id="8662"></a>
 
-![](<../.gitbook/assets/image (45) (1).png>)
+![](<../.gitbook/assets/image (45) (1) (1).png>)
 
 Click on `Metamask` and complete the signature request by clicking **Sign**. This will enable you to access the dashboard dapp, where you will be able to view validators and delegate your INJ tokens to them.
 
-![](<../.gitbook/assets/image (43) (1).png>)
+![](<../.gitbook/assets/image (43) (1) (1).png>)
 
 ### 2. Pre-stake your ERC-20 INJ Tokens <a href="#6fff" id="6fff"></a>
 
@@ -42,7 +42,7 @@ Click `Stake` from the header.
 
 Click the unlock button on the Stake page to approve the transfer of your INJ tokens by the deposit manager smart contract.&#x20;
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60) (1).png>)
 
 Approve the transaction in Metamask by clicking `Confirm`
 
@@ -52,7 +52,7 @@ _Depending on how much gas you submitted with the transaction and the current lo
 
 Once the transaction is completed on Ethereum, the Stake page will display a form where you can enter the amount of your ERC20 INJ tokens you would like to pre-stake.&#x20;
 
-![](<../.gitbook/assets/image (52) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1).png>)
 
 {% hint style="warning" %}
 _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens before the staking competition is completed, you will not be eligible to receive any rewards._
@@ -64,7 +64,7 @@ A modal will appear to confirm your stake. Please note the message about the loc
 
 Confirm the transaction in Metamask. Once your transaction is completed on Ethereum with enough confirmations, this amount will be reflected on the Pre-stake page under `Total Pre-Staked INJ`. The amount should take about 2 minutes to appear.
 
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56) (1).png>)
 
 ### 3. Connect to Kovan Network and confirm your staked INJ balance <a href="#709c" id="709c"></a>
 
@@ -74,11 +74,11 @@ After your pre-stake is complete, your Kovan INJ Balance will be updated and you
 
 To do so, click `Wallet` from the top menu bar to open the wallet page.
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (49) (1).png>)
 
 Open Metamask and connect to the Kovan network from the dropdown as shown below. Refresh the page after you switch.
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50) (1).png>)
 
 Under _My Balances_ you should be able to see how many INJ tokens you have in your wallet on three networks: Mainnet (Ethereum Network), Kovan (Ethereum Testnet), and on Injective Chain (Equinox Injective Testnet).
 
@@ -88,7 +88,7 @@ Under _My Balances_ you should be able to see how many INJ tokens you have in yo
 
 Before you can fully transfer your INJ tokens to Injective, you will have to approve the transfer of your Kovan INJ (KINJ) tokens by the smart contract on Kovan. Under the _Transfer_ section, click the lock icon to initiate the approval/unlock process.
 
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (48) (1).png>)
 
 This will open a transaction request in Metamask. Your wallet will be provided with Kovan ETH to cover the gas fee. Confirm the transaction request to approve the transfer. Once your approval is confirmed, you will see a _Token Unlocked_ notification appear at the bottom right of the page. You will now be able to transfer your KINJ (Kovan INJ) tokens to the Injective Chain.
 
@@ -100,7 +100,7 @@ Enter the amount of KINJ tokens you would like to send from Kovan to Injective C
 
 Once your transaction is confirmed on Kovan, you should see a _Successfully Transferred_ notification appear in the bottom right of your screen. Your balances under _My Balances_ should update to reflect your transfer between networks.
 
-![](<../.gitbook/assets/image (66) (1).png>)
+![](<../.gitbook/assets/image (66) (1) (1).png>)
 
 ### 6. Delegate INJ Tokens to Validators
 
