@@ -1,8 +1,5 @@
 ---
-description: >-
-  Helium is a network with a native cryptocurrency (HNT) used to incentivise
-  individuals around the world to provide coverage on a global peer-to-peer
-  wireless network.
+description: How to stake HNT using Ledger
 ---
 
 # Helium

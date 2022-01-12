@@ -11,3 +11,4 @@
 * [Ethereum](staking-guides/ethereum.md)
 * [Helium](staking-guides/helium.md)
 * [Injective](staking-guides/injective.md)
+* [Juno](staking-guides/juno.md)

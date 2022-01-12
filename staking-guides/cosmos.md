@@ -1,5 +1,5 @@
 ---
-description: How to stake on Cosmos and other information related to Cosmos network
+description: How to stake on Cosmos using Keplr wallet
 ---
 
 # Cosmos

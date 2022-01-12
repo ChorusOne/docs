@@ -1,5 +1,5 @@
 ---
-description: How to stake on Celo and other content related to Celo network by Chorus One
+description: How to stake on Celo using Celowallet
 ---
 
 # Celo

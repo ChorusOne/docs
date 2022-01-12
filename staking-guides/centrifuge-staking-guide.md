@@ -1,5 +1,5 @@
 ---
-description: How to stake on Centrifuge and other content related
+description: How to stake on Centrifuge using Polkadot
 ---
 
 # Centrifuge

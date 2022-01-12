@@ -1,3 +1,7 @@
+---
+description: How to stake your Injective using Metamask
+---
+
 # Injective
 
 ## About
@@ -48,7 +52,7 @@ _Depending on how much gas you submitted with the transaction and the current lo
 
 Once the transaction is completed on Ethereum, the Stake page will display a form where you can enter the amount of your ERC20 INJ tokens you would like to pre-stake.&#x20;
 
-![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (52) (1).png>)
 
 {% hint style="warning" %}
 _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens before the staking competition is completed, you will not be eligible to receive any rewards._
@@ -56,7 +60,7 @@ _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens be
 
 A modal will appear to confirm your stake. Please note the message about the lock schedule, and then click the `Stake` button to confirm.
 
-![](<../.gitbook/assets/image (65).png>)
+![](<../.gitbook/assets/image (65) (1).png>)
 
 Confirm the transaction in Metamask. Once your transaction is completed on Ethereum with enough confirmations, this amount will be reflected on the Pre-stake page under `Total Pre-Staked INJ`. The amount should take about 2 minutes to appear.
 
@@ -92,17 +96,17 @@ This will open a transaction request in Metamask. Your wallet will be provided w
 
 Enter the amount of KINJ tokens you would like to send from Kovan to Injective Chain and then click **Transfer**. This will open a transaction confirmation in Metamask. Once again, you have been supplied with the necessary Kovan ETH to cover the gas fee. Click **Confirm**.
 
-![](<../.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (62) (1).png>)
 
 Once your transaction is confirmed on Kovan, you should see a _Successfully Transferred_ notification appear in the bottom right of your screen. Your balances under _My Balances_ should update to reflect your transfer between networks.
 
-![](<../.gitbook/assets/image (66).png>)
+![](<../.gitbook/assets/image (66) (1).png>)
 
 ### 6. Delegate INJ Tokens to Validators
 
 Open the Validators page by clicking **Validators** from the top menu bar. Select `Chorus One` from the Validators list. In the same row under _Actions_, click **Delegate**.
 
-![](<../.gitbook/assets/image (53).png>)
+![](<../.gitbook/assets/image (53) (1).png>)
 
 This will open up a modal where you can enter the amount of INJ to delegate to this validator. Enter the amount and click **Delegate**.
 
@@ -110,7 +114,7 @@ This will open Metamask with a transaction for you to sign. Sign the transaction
 
 When the modal closes, return back to the Wallet page to confirm that the _Delegations_ table reflects delegations you have made to validators.
 
-![](<../.gitbook/assets/image (64).png>)
+![](<../.gitbook/assets/image (64) (1).png>)
 
 Congratulations! Your INJ is now staked!
 

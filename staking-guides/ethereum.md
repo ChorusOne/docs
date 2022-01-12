@@ -1,7 +1,5 @@
 ---
-description: >-
-  The largest platform for decentralized applications is migrating to
-  Proof-of-Stake. Stake ETH with us through initiatives like Lido Finance.
+description: How to stake ETH using Metamask in Lido
 ---
 
 # Ethereum
