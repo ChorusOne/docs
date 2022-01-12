@@ -4,6 +4,16 @@ description: How to stake Minawith Clorio wallet
 
 # Mina
 
+## Overview
+
+| Category                         | Details                                                                                |
+| -------------------------------- | -------------------------------------------------------------------------------------- |
+| **Chorus One Validator Address** | B62qmFf6UZn2sg3j8bYLGmMinzS2FHX6hDM71nFxAfMhvh4hnGBtkBD                                |
+| **Wallet**                       | Clorio                                                                                 |
+| **APR**                          | 11.59%                                                                                 |
+| **Block Explorer**               | [https://mina.staketab.com/](https://mina.staketab.com)                                |
+| **Staking Rewards**              | [https://www.stakingrewards.com/earn/mina/](https://www.stakingrewards.com/earn/mina/) |
+
 ### 1. Create Account and Login
 
 First of all, you have to log into your wallet.
