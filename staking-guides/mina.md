@@ -28,7 +28,7 @@ In case you do not have an account click on `Create a wallet` and note down the 
 Do not share your passphrase or private key with anyone. Doing so may cause loss of funds!
 {% endhint %}
 
-![](<../.gitbook/assets/image (60) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1) (1) (1).png>)
 
 If you already have a wallet, insert your Private key to log in to your wallet. Once the Private key is inserted, the button **Access the wallet** will be enabled, allowing you to enter inside your wallet.
 

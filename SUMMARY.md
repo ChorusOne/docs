@@ -21,3 +21,4 @@
 * [Persistence](staking-guides/persistence.md)
 * [Polkadot](staking-guides/polkadot.md)
 * [Provenance](staking-guides/provenance.md)
+* [Regen](staking-guides/regen.md)

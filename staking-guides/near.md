@@ -42,7 +42,7 @@ After you click `Continue` you are shown the passphrase. It should be 12 words l
 Store the mnemonic (passphrase) very securely. Anyone with the phrase can access your account and transact!
 {% endhint %}
 
-![](<../.gitbook/assets/image (56) (1).png>)
+![](<../.gitbook/assets/image (56) (1) (1).png>)
 
 To make sure you have got the seed phrase correctly recorded, you will be prompted to input one of the words at random.&#x20;
 
@@ -127,7 +127,7 @@ Once you have entered an amount, you must then confirm your stake as depicted in
 
 You will see the following screen upon successful staking!
 
-![](<../.gitbook/assets/image (60) (1) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1) (1).png>)
 
 Congratulations you are now staking on NEAR Protocol! You can check in on updates and rewards from the `Staking` tab of the wallet.
 

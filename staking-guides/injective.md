@@ -42,7 +42,7 @@ Click `Stake` from the header.
 
 Click the unlock button on the Stake page to approve the transfer of your INJ tokens by the deposit manager smart contract.&#x20;
 
-![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Approve the transaction in Metamask by clicking `Confirm`
 
@@ -64,7 +64,7 @@ A modal will appear to confirm your stake. Please note the message about the loc
 
 Confirm the transaction in Metamask. Once your transaction is completed on Ethereum with enough confirmations, this amount will be reflected on the Pre-stake page under `Total Pre-Staked INJ`. The amount should take about 2 minutes to appear.
 
-![](<../.gitbook/assets/image (56) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (56) (1) (1) (1) (1) (1).png>)
 
 ### 3. Connect to Kovan Network and confirm your staked INJ balance <a href="#709c" id="709c"></a>
 

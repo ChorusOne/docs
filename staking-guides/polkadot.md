@@ -123,7 +123,7 @@ Choose Polkadot in the popup that appears upon clicking **Add Account**
 
 Follow the instructions to create the new account
 
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56) (1).png>)
 
 ### 2. Send/Receive DOTs
 
@@ -157,7 +157,7 @@ Polkadot allows Nominated proof of staking where you are allowed to nominate up 
 
 Congratulations!! You are now staking your Polkadot! You may see your rewards in the portfolio section
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60) (1).png>)
 
 You can also see the video tutorial on the official Polkadot youtube channel
 

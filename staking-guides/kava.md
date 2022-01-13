@@ -100,4 +100,4 @@ Once your transaction is approved you will be able to see your Kava getting stak
 
 After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-![](<../.gitbook/assets/image (56) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (56) (1) (1) (1) (1).png>)
