@@ -19,3 +19,4 @@
 * [Oasis](staking-guides/oasis.md)
 * [Osmosis](staking-guides/osmosis.md)
 * [Persistence](staking-guides/persistence.md)
+* [Polkadot](staking-guides/polkadot.md)

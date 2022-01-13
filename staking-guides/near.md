@@ -24,7 +24,7 @@ To get started with everything, you will want to go to [https://wallet.near.org/
 
 Assuming you are planning on creating an account, you will want to select the blue box on the left — `Create Account`. The screen below is what will pop up:
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (49) (1).png>)
 
 This is where you have the opportunity to create a NEAR Account. You pick your account name and then click `Create Account`&#x20;
 
@@ -42,32 +42,32 @@ After you click `Continue` you are shown the passphrase. It should be 12 words l
 Store the mnemonic (passphrase) very securely. Anyone with the phrase can access your account and transact!
 {% endhint %}
 
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56) (1).png>)
 
 To make sure you have got the seed phrase correctly recorded, you will be prompted to input one of the words at random.&#x20;
 
-![](<../.gitbook/assets/image (78) (1).png>)
+![](<../.gitbook/assets/image (78) (1) (1).png>)
 
 After you do that, you will be brought to the _Account Verify_ screen. You will need to either fund it or use an email/sms to verify your account.
 
-![](<../.gitbook/assets/image (63) (1).png>)
+![](<../.gitbook/assets/image (63) (1) (1).png>)
 
 If you use email you will be taken to the next screen to enter the 6-digit verification code.
 
-![](<../.gitbook/assets/image (55).png>)
+![](<../.gitbook/assets/image (55) (1).png>)
 
 ### 2. Fund your account to get Near ID
 
 Here is where things can get a little tricky. NEAR is built around an Account model, where users have human-readable ID’s. In order to get that ID though, you need to fund your account with 0.1 NEAR.&#x20;
 
-![](<../.gitbook/assets/image (59) (1).png>)
+![](<../.gitbook/assets/image (59) (1) (1).png>)
 
 So here is how you get the ID you selected earlier on in the process:
 
 1. You keep the window open. Under no circumstances in the process should you close the window! If your computer freezes and you have to restart, you will have to start all over again!
 2. Open another window and use that to fund your one-time funding address. You can use an exchange to transfer NEAR to your account or you can borrow funds from someone who already has NEAR. A list of exchanges that currently offer $NEAR can be found [here](https://coinmarketcap.com/currencies/near-protocol/markets/).
 
-****![](<../.gitbook/assets/image (66) (1).png>)****
+****![](<../.gitbook/assets/image (66) (1) (1).png>)****
 
 Once you receive the near you will see an `Account Funded` screen. Congratulations your account is funded and that account ID is yours forever (or until you decide to sell it)!
 
@@ -111,7 +111,7 @@ This next part will go into the details on how to stake and unstake from the NEA
 
 This is the first step in staking. You will want to click the blue button `Stake My Tokens`. Once you do that, you will be prompted to **Select a Validator** from the list of NEAR Validators.
 
-![Selecting Chorus One Validator](<../.gitbook/assets/image (68) (1).png>)
+![Selecting Chorus One Validator](<../.gitbook/assets/image (68) (1) (1).png>)
 
 
 
@@ -119,15 +119,15 @@ Select `chorusone.poolv1.near` and click `Stak with Validator`. Then you are ask
 
 Select the amount you would like to Stake:
 
-![](<../.gitbook/assets/image (70) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1).png>)
 
 Once you have entered an amount, you must then confirm your stake as depicted in the picture below. All you have to do is click ‘Confirm’.
 
-![](<../.gitbook/assets/image (61) (1).png>)
+![](<../.gitbook/assets/image (61) (1) (1).png>)
 
 You will see the following screen upon successful staking!
 
-![](<../.gitbook/assets/image (60) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1).png>)
 
 Congratulations you are now staking on NEAR Protocol! You can check in on updates and rewards from the `Staking` tab of the wallet.
 
@@ -139,7 +139,7 @@ Your account will start earning rewards upon staking and after some time you wil
 
 This will then prompt you to select which validator you would like to unstake from. Unless you are staking through multiple different validators there should only be one option.
 
-![](<../.gitbook/assets/image (58) (1).png>)
+![](<../.gitbook/assets/image (58) (1) (1).png>)
 
 The following screen will then prompt you to input the amount of NEAR you wish to unstake. You can then choose to either unstake just your earned rewards or more if you like.
 
@@ -149,7 +149,7 @@ Finally, confirm that you are ready to unstake that amount of NEAR that you ente
 The tokens become available on the 4th epoch after release which is usually between 52–65 hours in time.
 {% endhint %}
 
-![](<../.gitbook/assets/image (69) (1).png>)
+![](<../.gitbook/assets/image (69) (1) (1).png>)
 
 After hitting confirm you will then get the `Success` message. Shortly after, the `staking` tab of your wallet, will reflect your tokens `pending release` and eventually they will become available for you to withdraw. Once they are available to withdraw you can simply select `Withdraw` to have them deposited back into your wallet.
 

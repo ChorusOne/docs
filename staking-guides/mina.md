@@ -20,7 +20,7 @@ First of all, you have to log into your wallet.
 
 Head to the [Clorio web app](https://mainnet.clor.io) or open the Clorio Desktop App and select **Access with Ledger** or **Access with Private key**.
 
-![](<../.gitbook/assets/image (53) (1) (1).png>)
+![](<../.gitbook/assets/image (53) (1) (1) (1).png>)
 
 In case you do not have an account click on `Create a wallet` and note down the passphrase and private key in a secure place.
 
@@ -28,17 +28,17 @@ In case you do not have an account click on `Create a wallet` and note down the 
 Do not share your passphrase or private key with anyone. Doing so may cause loss of funds!
 {% endhint %}
 
-![](<../.gitbook/assets/image (60) (1) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1) (1).png>)
 
 If you already have a wallet, insert your Private key to log in to your wallet. Once the Private key is inserted, the button **Access the wallet** will be enabled, allowing you to enter inside your wallet.
 
-![](<../.gitbook/assets/image (65) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1).png>)
 
 ### 2. Delegate to Chorus One
 
 On the left-side-menu click on **Staking Hub** item.
 
-![](<../.gitbook/assets/image (76) (1) (1).png>)
+![](<../.gitbook/assets/image (76) (1) (1) (1).png>)
 
 You will be brought to a new page, here you will have the staking status and the list of Validators.
 
@@ -46,15 +46,15 @@ To start delegating, you can scroll to **Chorus One** and click on the `Delegate
 
 After you click the `Delegate` button, a confirmation screen will show up.
 
-![](<../.gitbook/assets/image (63) (1) (1).png>)
+![](<../.gitbook/assets/image (63) (1) (1) (1).png>)
 
 Once you click on `Confirm` button you will be asked to insert a fee. The field will be pre-compiled with the Average fee, but you can choose the one that you want.
 
-![](<../.gitbook/assets/image (57) (1) (1).png>)
+![](<../.gitbook/assets/image (57) (1) (1) (1).png>)
 
 After you click on `Proceed` button, you will be asked to put your Private key in order to proceed with the delegation.
 
-![](<../.gitbook/assets/image (71) (1).png>)
+![](<../.gitbook/assets/image (71) (1) (1).png>)
 
 
 
@@ -72,13 +72,13 @@ Please be sure that your Ledger is connected, Ledger Mina app is open and your d
 
 If there are no issues with the delegation data, Clorio will wait for the Ledger signature and then broadcast the transaction to the network.
 
-![](<../.gitbook/assets/image (77) (1) (1).png>)
+![](<../.gitbook/assets/image (77) (1) (1) (1).png>)
 
 ### 4. Delegation done
 
 After entering your private key or signing with Ledger you will see the message `Delegator successfully broadcasted`. This means that delegation was successfully done!
 
-![](<../.gitbook/assets/image (66) (1) (1).png>)
+![](<../.gitbook/assets/image (66) (1) (1) (1).png>)
 
 Congratulations you are now staking Mina!!
 

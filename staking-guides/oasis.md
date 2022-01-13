@@ -26,11 +26,11 @@ Go to [RockX Wallet for Oasis Network](https://oasis-wallet.rockx.com).
 
 If you do not have an account yet, create one and fund it from either an exchange or get some ROSE tokens from someone who already holds them.
 
-![](<../.gitbook/assets/image (57).png>)
+![](<../.gitbook/assets/image (57) (1).png>)
 
 When you create a new wallet you will be shown 24-word mnemonic that you must **securely store!**&#x20;
 
-![](<../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (59) (1).png>)
 
 If you already have an account and you use Ledger then connect your Ledger and follow the instructions.
 
@@ -44,7 +44,7 @@ Once you are connected, select the ‘STAKING’ tab.
 
 Find Chorus One among the list of validators and click `DELEGATE` in that row. The validators are sorted by their staking power. You can also see what commission they take on the staking rewards you earn, as well as how many people already delegate tokens to them.&#x20;
 
-![](<../.gitbook/assets/image (75).png>)
+![](<../.gitbook/assets/image (75) (1).png>)
 
 ### 3. Enter amount of ROSE to delegate
 
@@ -60,7 +60,7 @@ Sign the transaction by selecting the ‘SIGN AND SUBMIT’ button.
 
 Congratulations! You’re now staking your ROSE tokens, and you should see a screen that looks similar to the one below!
 
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (70) (1).png>)
 
 ## Official resources
 
