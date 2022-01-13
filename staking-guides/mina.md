@@ -32,7 +32,7 @@ Do not share your passphrase or private key with anyone. Doing so may cause loss
 
 If you already have a wallet, insert your Private key to log in to your wallet. Once the Private key is inserted, the button **Access the wallet** will be enabled, allowing you to enter inside your wallet.
 
-![](<../.gitbook/assets/image (65) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1).png>)
 
 ### 2. Delegate to Chorus One
 
@@ -50,7 +50,7 @@ After you click the `Delegate` button, a confirmation screen will show up.
 
 Once you click on `Confirm` button you will be asked to insert a fee. The field will be pre-compiled with the Average fee, but you can choose the one that you want.
 
-![](<../.gitbook/assets/image (57) (1).png>)
+![](<../.gitbook/assets/image (57) (1) (1).png>)
 
 After you click on `Proceed` button, you will be asked to put your Private key in order to proceed with the delegation.
 
@@ -78,7 +78,7 @@ If there are no issues with the delegation data, Clorio will wait for the Ledger
 
 After entering your private key or signing with Ledger you will see the message `Delegator successfully broadcasted`. This means that delegation was successfully done!
 
-![](<../.gitbook/assets/image (66) (1).png>)
+![](<../.gitbook/assets/image (66) (1) (1).png>)
 
 Congratulations you are now staking Mina!!
 

@@ -16,3 +16,4 @@
 * [Kusama](staking-guides/kusama.md)
 * [Mina](staking-guides/mina.md)
 * [Near](staking-guides/near.md)
+* [Oasis](staking-guides/oasis.md)

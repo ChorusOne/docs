@@ -60,7 +60,7 @@ _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens be
 
 A modal will appear to confirm your stake. Please note the message about the lock schedule, and then click the `Stake` button to confirm.
 
-![](<../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
 
 Confirm the transaction in Metamask. Once your transaction is completed on Ethereum with enough confirmations, this amount will be reflected on the Pre-stake page under `Total Pre-Staked INJ`. The amount should take about 2 minutes to appear.
 
@@ -82,7 +82,7 @@ Open Metamask and connect to the Kovan network from the dropdown as shown below.
 
 Under _My Balances_ you should be able to see how many INJ tokens you have in your wallet on three networks: Mainnet (Ethereum Network), Kovan (Ethereum Testnet), and on Injective Chain (Equinox Injective Testnet).
 
-![](<../.gitbook/assets/image (58) (1) (1).png>)
+![](<../.gitbook/assets/image (58) (1) (1) (1).png>)
 
 ### 4. Approve Transfer of your KINJ (Kovan INJ) Tokens <a href="#346f" id="346f"></a>
 
@@ -100,7 +100,7 @@ Enter the amount of KINJ tokens you would like to send from Kovan to Injective C
 
 Once your transaction is confirmed on Kovan, you should see a _Successfully Transferred_ notification appear in the bottom right of your screen. Your balances under _My Balances_ should update to reflect your transfer between networks.
 
-![](<../.gitbook/assets/image (66) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (66) (1) (1) (1) (1) (1) (1).png>)
 
 ### 6. Delegate INJ Tokens to Validators
 
@@ -122,4 +122,4 @@ Congratulations! Your INJ is now staked!
 
 After you have delegated INJ to validators and waited some time, you will have accrued delegation rewards which can be claimed from the Wallet page. Under the _Delegation Rewards_ table, you are shown a _Total Reward (INJ)_ balance. Click **Claim** and sign the transaction.
 
-![](<../.gitbook/assets/image (57) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (57) (1) (1) (1) (1).png>)

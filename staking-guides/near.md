@@ -67,7 +67,7 @@ So here is how you get the ID you selected earlier on in the process:
 1. You keep the window open. Under no circumstances in the process should you close the window! If your computer freezes and you have to restart, you will have to start all over again!
 2. Open another window and use that to fund your one-time funding address. You can use an exchange to transfer NEAR to your account or you can borrow funds from someone who already has NEAR. A list of exchanges that currently offer $NEAR can be found [here](https://coinmarketcap.com/currencies/near-protocol/markets/).
 
-****![](<../.gitbook/assets/image (66).png>)****
+****![](<../.gitbook/assets/image (66) (1).png>)****
 
 Once you receive the near you will see an `Account Funded` screen. Congratulations your account is funded and that account ID is yours forever (or until you decide to sell it)!
 
@@ -111,7 +111,7 @@ This next part will go into the details on how to stake and unstake from the NEA
 
 This is the first step in staking. You will want to click the blue button `Stake My Tokens`. Once you do that, you will be prompted to **Select a Validator** from the list of NEAR Validators.
 
-![Selecting Chorus One Validator](<../.gitbook/assets/image (68).png>)
+![Selecting Chorus One Validator](<../.gitbook/assets/image (68) (1).png>)
 
 
 
@@ -139,7 +139,7 @@ Your account will start earning rewards upon staking and after some time you wil
 
 This will then prompt you to select which validator you would like to unstake from. Unless you are staking through multiple different validators there should only be one option.
 
-![](<../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (58) (1).png>)
 
 The following screen will then prompt you to input the amount of NEAR you wish to unstake. You can then choose to either unstake just your earned rewards or more if you like.
 
@@ -149,7 +149,7 @@ Finally, confirm that you are ready to unstake that amount of NEAR that you ente
 The tokens become available on the 4th epoch after release which is usually between 52–65 hours in time.
 {% endhint %}
 
-![](<../.gitbook/assets/image (69).png>)
+![](<../.gitbook/assets/image (69) (1).png>)
 
 After hitting confirm you will then get the `Success` message. Shortly after, the `staking` tab of your wallet, will reflect your tokens `pending release` and eventually they will become available for you to withdraw. Once they are available to withdraw you can simply select `Withdraw` to have them deposited back into your wallet.
 

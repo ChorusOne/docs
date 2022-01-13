@@ -82,7 +82,7 @@ You will be shown a list of validators with whom to stake on the right side. Scr
 
 A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.&#x20;
 
-![](<../.gitbook/assets/image (68) (1) (1).png>)
+![](<../.gitbook/assets/image (68) (1) (1) (1).png>)
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
