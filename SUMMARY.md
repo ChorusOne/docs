@@ -22,3 +22,4 @@
 * [Polkadot](staking-guides/polkadot.md)
 * [Provenance](staking-guides/provenance.md)
 * [Regen](staking-guides/regen.md)
+* [Secret Network](staking-guides/secret-network.md)

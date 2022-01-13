@@ -68,7 +68,7 @@ The second option is preferable because this lets you have independent keys. So,
 
 **Congratulations, you have successfully created your Kusama Controller account**. You will now also find the address in Polkadot JS under `Accounts` — reload the page if this is not the case.
 
-![](<../.gitbook/assets/image (95).png>)
+![](<../.gitbook/assets/image (95) (1).png>)
 
 ### **Step 3: Stake your KSM token** <a href="#ead8" id="ead8"></a>
 

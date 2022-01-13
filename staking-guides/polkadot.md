@@ -22,7 +22,7 @@ You can nominate validators (also known as **staking**) on Polkadot-JS UI using 
 
 [Create a Polkadot account](https://wiki.polkadot.network/docs/en/learn-account-generation) if you don’t have one already. Get the browser extension by visiting Polkadot.js.org/extension&#x20;
 
-![](<../.gitbook/assets/image (115).png>)
+![](<../.gitbook/assets/image (115) (1).png>)
 
 Click on the extension card and add it to your browser.
 
@@ -43,7 +43,7 @@ Also, _**make sure you leave a small amount of DOT transferrable in your stash a
 \
 
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (98) (1).png>)
 
 ![](<../.gitbook/assets/image (49).png>)
 
