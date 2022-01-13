@@ -20,3 +20,4 @@
 * [Osmosis](staking-guides/osmosis.md)
 * [Persistence](staking-guides/persistence.md)
 * [Polkadot](staking-guides/polkadot.md)
+* [Provenance](staking-guides/provenance.md)

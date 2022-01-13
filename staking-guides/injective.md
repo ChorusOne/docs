@@ -96,7 +96,7 @@ This will open a transaction request in Metamask. Your wallet will be provided w
 
 Enter the amount of KINJ tokens you would like to send from Kovan to Injective Chain and then click **Transfer**. This will open a transaction confirmation in Metamask. Once again, you have been supplied with the necessary Kovan ETH to cover the gas fee. Click **Confirm**.
 
-![](<../.gitbook/assets/image (62) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (62) (1) (1) (1) (1) (1) (1).png>)
 
 Once your transaction is confirmed on Kovan, you should see a _Successfully Transferred_ notification appear in the bottom right of your screen. Your balances under _My Balances_ should update to reflect your transfer between networks.
 
