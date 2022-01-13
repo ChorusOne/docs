@@ -72,7 +72,7 @@ Please be sure that your Ledger is connected, Ledger Mina app is open and your d
 
 If there are no issues with the delegation data, Clorio will wait for the Ledger signature and then broadcast the transaction to the network.
 
-![](<../.gitbook/assets/image (77) (1).png>)
+![](<../.gitbook/assets/image (77) (1) (1).png>)
 
 ### 4. Delegation done
 

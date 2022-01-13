@@ -76,15 +76,15 @@ To stake click on the Osmosis network in the left panel and click on `Stake`&#x2
 
 You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage.`
 
-![](<../.gitbook/assets/image (66).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.&#x20;
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../.gitbook/assets/image (81).png>)
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
-![](<../.gitbook/assets/image (79).png>)
+![](<../.gitbook/assets/image (82).png>)
 
 {% hint style="danger" %}
 There is a 21-day unbonding process for staked OSMOs during which delegator OSMOs do not earn rewards and cannot be transferred, exchanged, or spent. OSMOs can, however, be slashed during the unbonding period.
@@ -96,4 +96,4 @@ There is a 21-day unbonding process for staked OSMOs during which delegator OSMO
 
 After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-![](<../.gitbook/assets/image (63).png>)
+![](<../.gitbook/assets/image (67).png>)

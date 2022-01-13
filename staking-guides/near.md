@@ -46,7 +46,7 @@ Store the mnemonic (passphrase) very securely. Anyone with the phrase can access
 
 To make sure you have got the seed phrase correctly recorded, you will be prompted to input one of the words at random.&#x20;
 
-![](<../.gitbook/assets/image (78).png>)
+![](<../.gitbook/assets/image (78) (1).png>)
 
 After you do that, you will be brought to the _Account Verify_ screen. You will need to either fund it or use an email/sms to verify your account.
 
