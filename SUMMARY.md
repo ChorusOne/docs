@@ -17,3 +17,4 @@
 * [Mina](staking-guides/mina.md)
 * [Near](staking-guides/near.md)
 * [Oasis](staking-guides/oasis.md)
+* [Osmosis](staking-guides/osmosis.md)

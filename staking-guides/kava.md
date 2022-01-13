@@ -29,7 +29,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
 
-![](<../.gitbook/assets/image (70) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (25).png>)
 
@@ -56,7 +56,7 @@ You will be shown 12 words as your mnemonic seed. Select`24 words` option for a 
 
 Enter an account name and a passphrase to unlock your wallet. You will be asked for the mnemonic again. Enter the 24 words in order. This is to make sure you remember the mnemonic.
 
-![](<../.gitbook/assets/image (50) (1).png>)\`
+![](<../.gitbook/assets/image (50) (1) (1).png>)\`
 
 Finally, click on `Next` to create your account
 
@@ -66,7 +66,7 @@ Finally, click on `Next` to create your account
 
 Regardless of whether you already have an account or if you created it just now you may now click on the extension to view your address or visit[ ](https://wallet.keplr.app/#/kava/stake)[https://wallet.keplr.app/#/kava/stake](https://wallet.keplr.app/#/kava/stake) to see the full dashboard
 
-![](<../.gitbook/assets/image (71) (1).png>)
+![](<../.gitbook/assets/image (71) (1) (1).png>)
 
 ### 4. Stake your KAVA
 
@@ -76,7 +76,7 @@ To stake click on the Kava network in the left panel and click on `Stake`&#x20;
 
 ![](<../.gitbook/assets/image (45).png>)
 
-You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage.`![](broken-reference)``
+You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage.`
 
 ![](<../.gitbook/assets/image (43) (1).png>)
 
@@ -86,10 +86,10 @@ A modal with Chorus One's description will pop up. Click once on `Delegate` to e
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
-![](<../.gitbook/assets/image (72) (1) (1).png>)
+![](<../.gitbook/assets/image (72) (1) (1) (1).png>)
 
 {% hint style="danger" %}
-There is a 21-day unbonding process for staked ATOMs during which delegator ATOMs do not earn rewards and cannot be transferred, exchanged, or spent. ATOMs can, however, be slashed during the unbonding period.
+There is a 21-day unbonding process for staked KAVAs during which delegator KAVAs do not earn rewards and cannot be transferred, exchanged, or spent. KAVAs can, however, be slashed during the unbonding period.
 {% endhint %}
 
 ![](<../.gitbook/assets/image (52) (1) (1).png>)

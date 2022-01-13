@@ -50,7 +50,7 @@ To make sure you have got the seed phrase correctly recorded, you will be prompt
 
 After you do that, you will be brought to the _Account Verify_ screen. You will need to either fund it or use an email/sms to verify your account.
 
-![](<../.gitbook/assets/image (63).png>)
+![](<../.gitbook/assets/image (63) (1).png>)
 
 If you use email you will be taken to the next screen to enter the 6-digit verification code.
 
@@ -60,7 +60,7 @@ If you use email you will be taken to the next screen to enter the 6-digit verif
 
 Here is where things can get a little tricky. NEAR is built around an Account model, where users have human-readable ID’s. In order to get that ID though, you need to fund your account with 0.1 NEAR.&#x20;
 
-![](<../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (59) (1).png>)
 
 So here is how you get the ID you selected earlier on in the process:
 
@@ -119,15 +119,15 @@ Select `chorusone.poolv1.near` and click `Stak with Validator`. Then you are ask
 
 Select the amount you would like to Stake:
 
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (70) (1).png>)
 
 Once you have entered an amount, you must then confirm your stake as depicted in the picture below. All you have to do is click ‘Confirm’.
 
-![](<../.gitbook/assets/image (61).png>)
+![](<../.gitbook/assets/image (61) (1).png>)
 
 You will see the following screen upon successful staking!
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60) (1).png>)
 
 Congratulations you are now staking on NEAR Protocol! You can check in on updates and rewards from the `Staking` tab of the wallet.
 

@@ -46,7 +46,7 @@ To see all the available validators, click the `Stake` **** tab at the top of th
 
 A form will appear, showing the validator and a field to enter the amount of tokens to delegate. Your available tokens can be seen at the bottom of the form. Enter the amount of tokens you wish to delegate and click **DELEGATE**.
 
-![](<../.gitbook/assets/image (62) (1) (1).png>)
+![](<../.gitbook/assets/image (62) (1) (1) (1).png>)
 
 A Keplr wallet popup will appear asking for approval for the transaction. Click **Approve** to finalize the delegation.
 
@@ -58,18 +58,18 @@ After the transaction is completed, a popup will indicate that the tokens were s
 
 Congratulations! Your tokens are now delegated to Chorus One. You can now see the delegated amount next in the validator list. You will also be given additional options to `REDELEGATE` and `UNDELEGATE` for this validator.
 
-![](<../.gitbook/assets/image (53) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (53) (1) (1) (1) (1).png>)
 
 ### 3. Collect staking rewards <a href="#collect-staking-rewards" id="collect-staking-rewards"></a>
 
 Once some time has passed you will see that some rewards have accumulated in your account. You can view your `rewards` in your Omniflix dashboard\
 
 
-![](<../.gitbook/assets/image (63) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
 
 Click on `Claim` to collect these rewards
 
-![](<../.gitbook/assets/image (64) (1) (1).png>)
+![](<../.gitbook/assets/image (64) (1) (1) (1).png>)
 
 Select `All` in the rewards selector dropdown and `approve`the transaction in Keplr&#x20;
 
