@@ -82,7 +82,7 @@ A modal with Chorus One's description will pop up. Click once on `Delegate` to e
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
-![](<../.gitbook/assets/image (51) (1) (1).png>)
+![](<../.gitbook/assets/image (51) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 There is a 21-day unbonding process for staked XPRTs during which delegator XPRTs do not earn rewards and cannot be transferred, exchanged, or spent. XPRTs can, however, be slashed during the unbonding period.
@@ -94,4 +94,4 @@ There is a 21-day unbonding process for staked XPRTs during which delegator XPRT
 
 After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-![](<../.gitbook/assets/image (62) (1) (1).png>)
+![](<../.gitbook/assets/image (62) (1) (1) (1).png>)

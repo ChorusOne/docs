@@ -23,3 +23,4 @@
 * [Provenance](staking-guides/provenance.md)
 * [Regen](staking-guides/regen.md)
 * [Secret Network](staking-guides/secret-network.md)
+* [Skale](staking-guides/skale.md)

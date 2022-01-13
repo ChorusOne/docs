@@ -33,7 +33,7 @@ Make sure to install the Polkadot.js Browser Extension before you get started. Y
 
 Once you successfully installed the extension, click on the icon for Poladot extension - a `P` button in your browser bar to open the interface. You will be prompted to create an account if you don't have one already.
 
-![](<../.gitbook/assets/image (61) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (61) (1) (1) (1) (1) (1).png>)
 
 Click the little _Gear Icon_ in the upper right corner and choose `Kusama Relay Chain` under `Display Address Format For`.&#x20;
 

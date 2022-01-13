@@ -46,7 +46,7 @@ To see all the available validators, click the `Stake` **** tab at the top of th
 
 A form will appear, showing the validator and a field to enter the amount of tokens to delegate. Your available tokens can be seen at the bottom of the form. Enter the amount of tokens you wish to delegate and click **DELEGATE**.
 
-![](<../.gitbook/assets/image (62) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (62) (1) (1) (1) (1) (1) (1).png>)
 
 A Keplr wallet popup will appear asking for approval for the transaction. Click **Approve** to finalize the delegation.
 

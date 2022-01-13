@@ -36,14 +36,14 @@ After adding to your browser it will appear as a **P** icon in the toolbar
 Please note **it is recommended to create two accounts:** one to use as the controller account and one to use as your stash account. Learn more about this [here](https://wiki.polkadot.network/docs/en/learn-staking/#accounts)
 {% endhint %}
 
-![](<../.gitbook/assets/image (73).png>)
+![](<../.gitbook/assets/image (73) (1).png>)
 
 If you want to know more details about how to create an account you can visit the official docs [here](https://wiki.polkadot.network/docs/learn-account-generation).\
 Also, _**make sure you leave a small amount of DOT transferrable in your stash account and that your controller has more than 1 DOT in it**_. This is in order to have enough liquid funds for paying transaction fees when bonding and unbonding funds.\
 \
 
 
-![](<../.gitbook/assets/image (98) (1).png>)
+![](<../.gitbook/assets/image (98) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (49).png>)
 
@@ -72,7 +72,7 @@ Go to the [Polkadot-JS UI main page](https://polkadot.js.org/apps/#/explorer). C
 
 Choose your Stash and Controller accounts. It is more **secure** to choose separate stash and controller accounts. So make sure you create a separate controller account first in the same manner as you created your stash account. Again, make sure you have funds in your controller account.
 
-![](<../.gitbook/assets/image (108).png>)
+![](<../.gitbook/assets/image (108) (1).png>)
 
 &#x20;Then select the amount you want to bond and the rewards destination and click "Next"
 
