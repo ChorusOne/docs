@@ -123,7 +123,7 @@ Select the amount you would like to Stake:
 
 Once you have entered an amount, you must then confirm your stake as depicted in the picture below. All you have to do is click ‘Confirm’.
 
-![](<../.gitbook/assets/image (61) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (61) (1) (1) (1) (1).png>)
 
 You will see the following screen upon successful staking!
 

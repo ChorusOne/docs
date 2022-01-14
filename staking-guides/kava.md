@@ -56,7 +56,7 @@ You will be shown 12 words as your mnemonic seed. Select`24 words` option for a 
 
 Enter an account name and a passphrase to unlock your wallet. You will be asked for the mnemonic again. Enter the 24 words in order. This is to make sure you remember the mnemonic.
 
-![](<../.gitbook/assets/image (50) (1) (1) (1).png>)\`
+![](<../.gitbook/assets/image (50) (1) (1) (1) (1).png>)\`
 
 Finally, click on `Next` to create your account
 

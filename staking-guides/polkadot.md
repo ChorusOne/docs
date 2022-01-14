@@ -80,7 +80,7 @@ Choose your Stash and Controller accounts. It is more **secure** to choose separ
 
 In the next screen select Chorus One as the validator. Finally, click `Bond and Nominate`.
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50) (1).png>)
 
 Enter the password for your account and click `Sign & submit`.
 

@@ -28,3 +28,4 @@
 * [Terra](staking-guides/terra.md)
 * [Tezos](staking-guides/tezos.md)
 * [The Graph](staking-guides/the-graph.md)
+* [Akash](staking-guides/akash.md)

@@ -1,21 +1,21 @@
 ---
-description: How to stake Regen using Keplr wallet
+description: How to stake your AKT using Keplr wallet
 ---
 
-# Regen
+# Akash
 
 ## Overview
 
 | Category                         | Details                                                                                 |
 | -------------------------------- | --------------------------------------------------------------------------------------- |
-| **Chorus One Validator Address** | regenvaloper15urq2dtp9qce4fyc85m6upwm9xul3049l7gjdc                                     |
+| **Chorus One Validator Address** | akashvaloper16pj5gljqnqs0ajxakccfjhu05yczp987ptmjx9                                     |
 | **Wallet**                       | Keplr                                                                                   |
-| **APR**                          | 10%                                                                                     |
-| **Block Explorer**               | [https://www.mintscan.io/regen](https://www.mintscan.io/regen)                          |
-| **Staking Rewards**              | [https://www.stakingrewards.com/earn/regen](https://www.stakingrewards.com/earn/regen/) |
+| **APR**                          | 40.5                                                                                    |
+| **Block Explorer**               | [https://www.mintscan.io/akash](https://www.mintscan.io/akash)                          |
+| **Staking Rewards**              | [https://www.stakingrewards.com/earn/akash](https://www.stakingrewards.com/earn/akash/) |
 | **Unstaking Period**             | 21 Days                                                                                 |
 
-Regen Network uses blockchain to solve problems seldom-found in carbon credit marketplaces now of double-counted carbon credits and unaccountable parties not enduring penalties for not following protocol. Regen Network has opted to use Cosmos SDK to build a blockchain that is able to track the provenance of carbon credit issuance and exchange.
+Akash is a decentralized marketplace, where cloud providers (providers) can lease their computing power to users (tenants). The Akash marketplace functions by conducting reverse auctions whereby the tenant creates orders for computing power, and providers bid on these orders. When the tenant chooses a provider, they create a lease. After this, the user deploys a Docker container on the Akash Container Platform where users are able to then run any cloud-native application and access a range of cloud management services like Kubernetes.
 
 {% hint style="danger" %}
 Please note that the unstake period is 21 days. This means that you can only unstake and withdraw coins to your wallet after this time has passed. We wish you profitable staking!
@@ -60,38 +60,38 @@ Finally, click on `Next` to create your account
 
 ### 3. Log in to your account
 
-Regardless of whether you already have an account or if you created it just now you may now click on the extension to view your address or visit [https://wallet.keplr.app/#/regen/stake](https://wallet.keplr.app/#/regen/stake) to see the full dashboard
+Regardless of whether you already have an account or if you created it just now you may now click on the extension to view your address or visit [https://wallet.keplr.app/#/akashnet/stake](https://wallet.keplr.app/#/akashnet/stake) to see the full dashboard
 
 ![](<../.gitbook/assets/image (71) (1) (1) (1).png>)
 
-### 4. Stake your `REGEN`
+### 4. Stake your `AKT`
 
-If you don't already have `REGEN` in your account fund it with some tokens. You may use an exchange to transfer the REGEN tokens to your address or get it from someone who already holds those.
+If you don't already have `AKT` in your account fund it with some tokens. You may use an exchange to transfer the AKT tokens to your address or get it from someone who already holds those.
 
-To stake click on the Regen network in the left panel and click on `Stake`&#x20;
+To stake click on the Akash network in the left panel and click on `Stake`&#x20;
 
-![](../.gitbook/assets/stake.png)
+![](<../.gitbook/assets/1-stake (1).png>)
 
 You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage.`
 
-![](../.gitbook/assets/validator.png)
+![Click on Manage](../.gitbook/assets/2-manage.png)
 
 A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.&#x20;
 
-![](../.gitbook/assets/delegate-1.png)
+![Delegate to Chorus One](<../.gitbook/assets/3-delegate-1 (1).png>)
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
-![](../.gitbook/assets/delegate-2.png)
+![Enter amount to delegate](<../.gitbook/assets/4-delegate-2 (1).png>)
 
 {% hint style="danger" %}
-There is a 21-day unbonding process for staked REGENs during which delegator REGENs do not earn rewards and cannot be transferred, exchanged, or spent. REGENs can, however, be slashed during the unbonding period.
+There is a 21-day unbonding process for staked AKTs during which delegator AKTs do not earn rewards and cannot be transferred, exchanged, or spent. AKTs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-### ![](<../.gitbook/assets/image (56).png>)
+### ![](<../.gitbook/assets/image (65).png>)
 
 ### 5. Claiming rewards
 
 After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-![](../.gitbook/assets/claim.png)
+![](<../.gitbook/assets/image (103).png>)

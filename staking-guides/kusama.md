@@ -33,13 +33,13 @@ Make sure to install the Polkadot.js Browser Extension before you get started. Y
 
 Once you successfully installed the extension, click on the icon for Poladot extension - a `P` button in your browser bar to open the interface. You will be prompted to create an account if you don't have one already.
 
-![](<../.gitbook/assets/image (61) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (61) (1) (1) (1) (1) (1) (1).png>)
 
 Click the little _Gear Icon_ in the upper right corner and choose `Kusama Relay Chain` under `Display Address Format For`.&#x20;
 
 Then, click on the `+` Icon followed by `Create new account`. Uncheck the box next to “Derive new account from existing” & click “Create an account from new seed”.
 
-![](<../.gitbook/assets/image (49) (1) (1) (1).png>)![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (75) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (49) (1) (1) (1).png>)![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (75) (1) (1) (1) (1).png>)
 
 Write down your mnemonic seed phrase and **securely store it**. Whoever has access to the mnemonic seed also has access to your funds! Check the box on the bottom and click “Next step”. Choose a descriptive name for your Stash account as well as a strong password. Then click “Add the account with the generated seed”.
 
