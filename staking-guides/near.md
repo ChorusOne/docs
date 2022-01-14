@@ -24,7 +24,7 @@ To get started with everything, you will want to go to [https://wallet.near.org/
 
 Assuming you are planning on creating an account, you will want to select the blue box on the left — `Create Account`. The screen below is what will pop up:
 
-![](<../.gitbook/assets/image (49) (1).png>)
+![](<../.gitbook/assets/image (49) (1) (1).png>)
 
 This is where you have the opportunity to create a NEAR Account. You pick your account name and then click `Create Account`&#x20;
 
@@ -50,7 +50,7 @@ To make sure you have got the seed phrase correctly recorded, you will be prompt
 
 After you do that, you will be brought to the _Account Verify_ screen. You will need to either fund it or use an email/sms to verify your account.
 
-![](<../.gitbook/assets/image (63) (1) (1).png>)
+![](<../.gitbook/assets/image (63) (1) (1) (1).png>)
 
 If you use email you will be taken to the next screen to enter the 6-digit verification code.
 

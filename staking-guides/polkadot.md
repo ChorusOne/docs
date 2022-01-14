@@ -45,9 +45,9 @@ Also, _**make sure you leave a small amount of DOT transferrable in your stash a
 
 ![](<../.gitbook/assets/image (98) (1) (1).png>)
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (49) (1).png>)
 
-![](<../.gitbook/assets/image (116).png>)
+![](<../.gitbook/assets/image (116) (1).png>)
 
 ### 2. Bonding the DOTs
 
@@ -72,7 +72,7 @@ Go to the [Polkadot-JS UI main page](https://polkadot.js.org/apps/#/explorer). C
 
 Choose your Stash and Controller accounts. It is more **secure** to choose separate stash and controller accounts. So make sure you create a separate controller account first in the same manner as you created your stash account. Again, make sure you have funds in your controller account.
 
-![](<../.gitbook/assets/image (108) (1).png>)
+![](<../.gitbook/assets/image (108) (1) (1).png>)
 
 &#x20;Then select the amount you want to bond and the rewards destination and click "Next"
 
@@ -84,11 +84,11 @@ In the next screen select Chorus One as the validator. Finally, click `Bond and 
 
 Enter the password for your account and click `Sign & submit`.
 
-![](<../.gitbook/assets/image (92).png>)
+![](<../.gitbook/assets/image (92) (1).png>)
 
 Sign the transaction using your stash account
 
-![](<../.gitbook/assets/image (88).png>)
+![](<../.gitbook/assets/image (88) (1).png>)
 
 Additionally, if you need to change the nominated validators or unbond your balance you just need the controller account to perform the transaction.
 
@@ -119,7 +119,7 @@ Add your account by going to the Accounts tab in the left panel and clicking on 
 
 Choose Polkadot in the popup that appears upon clicking **Add Account**
 
-![](<../.gitbook/assets/image (64).png>)
+![](<../.gitbook/assets/image (64) (1).png>)
 
 Follow the instructions to create the new account
 
@@ -129,7 +129,7 @@ Follow the instructions to create the new account
 
 Once you have an account you can buy DOTs directly from the Ledger Live app.
 
-![](<../.gitbook/assets/image (117).png>)
+![](<../.gitbook/assets/image (117) (1).png>)
 
 In case you are unable to buy DOTs directly from Ledger Live you may use an exchange to do so.
 
@@ -149,7 +149,7 @@ Then enter the amount of DOTs you want to bond
 
 To compound your rewards you can select the `Bonded Balance` tab instead of the `Available Balance` tab. Click `Continue` and confirm the bonding transaction on your device. Finally **Nominate** a validator in the next step
 
-![](<../.gitbook/assets/image (99).png>)
+![](<../.gitbook/assets/image (99) (1).png>)
 
 Polkadot allows Nominated proof of staking where you are allowed to nominate up to 16 validators. By clicking on the `Nominate` byou will be able to select the validator. Search for **Chorus One** and click `Continue.`
 

@@ -70,7 +70,7 @@ If you don't already have XPRT in your account fund it with some tokens. You may
 
 To stake click on the Persistence network in the left panel and click on `Stake`&#x20;
 
-![](<../.gitbook/assets/image (64) (1).png>)
+![](<../.gitbook/assets/image (64) (1) (1).png>)
 
 You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage.`
 
@@ -88,7 +88,7 @@ Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve
 There is a 21-day unbonding process for staked XPRTs during which delegator XPRTs do not earn rewards and cannot be transferred, exchanged, or spent. XPRTs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-### ![](<../.gitbook/assets/image (63) (1).png>)
+### ![](<../.gitbook/assets/image (63) (1) (1).png>)
 
 ### 5. Claiming rewards
 

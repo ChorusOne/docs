@@ -65,11 +65,11 @@ Congratulations! Your tokens are now delegated to Chorus One. You can now see th
 Once some time has passed you will see that some rewards have accumulated in your account. You can view your `rewards` in your Omniflix dashboard\
 
 
-![](<../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1).png>)
 
 Click on `Claim` to collect these rewards
 
-![](<../.gitbook/assets/image (64) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (64) (1) (1) (1) (1) (1).png>)
 
 Select `All` in the rewards selector dropdown and `approve`the transaction in Keplr&#x20;
 

@@ -74,7 +74,7 @@ After your pre-stake is complete, your Kovan INJ Balance will be updated and you
 
 To do so, click `Wallet` from the top menu bar to open the wallet page.
 
-![](<../.gitbook/assets/image (49) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (49) (1) (1) (1) (1) (1).png>)
 
 Open Metamask and connect to the Kovan network from the dropdown as shown below. Refresh the page after you switch.
 
@@ -114,7 +114,7 @@ This will open Metamask with a transaction for you to sign. Sign the transaction
 
 When the modal closes, return back to the Wallet page to confirm that the _Delegations_ table reflects delegations you have made to validators.
 
-![](<../.gitbook/assets/image (64) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1).png>)
 
 Congratulations! Your INJ is now staked!
 

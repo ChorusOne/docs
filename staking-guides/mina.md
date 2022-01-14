@@ -46,7 +46,7 @@ To start delegating, you can scroll to **Chorus One** and click on the `Delegate
 
 After you click the `Delegate` button, a confirmation screen will show up.
 
-![](<../.gitbook/assets/image (63) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
 
 Once you click on `Confirm` button you will be asked to insert a fee. The field will be pre-compiled with the Average fee, but you can choose the one that you want.
 

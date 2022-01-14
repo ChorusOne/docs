@@ -39,7 +39,7 @@ Click the little _Gear Icon_ in the upper right corner and choose `Kusama Relay 
 
 Then, click on the `+` Icon followed by `Create new account`. Uncheck the box next to “Derive new account from existing” & click “Create an account from new seed”.
 
-![](<../.gitbook/assets/image (49) (1) (1).png>)![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (65) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (75) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (49) (1) (1) (1).png>)![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (65) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (75) (1) (1) (1).png>)
 
 Write down your mnemonic seed phrase and **securely store it**. Whoever has access to the mnemonic seed also has access to your funds! Check the box on the bottom and click “Next step”. Choose a descriptive name for your Stash account as well as a strong password. Then click “Add the account with the generated seed”.
 
@@ -49,7 +49,7 @@ Never share your Mnemonic Seed Phrase!
 
 **Congratulations, you have successfully created your Kusama account.** You will now also find the address on the [Polkadot JS Website](https://polkadot.js.org/apps/#/accounts) under “Accounts” — reload the page, if this is not the case. You can now fund this account.
 
-![](<../.gitbook/assets/image (63).png>)
+![](<../.gitbook/assets/image (63) (1).png>)
 
 ### Step 2: Create a Kusama Controller Account <a href="#c2b1" id="c2b1"></a>
 
@@ -68,7 +68,7 @@ The second option is preferable because this lets you have independent keys. So,
 
 **Congratulations, you have successfully created your Kusama Controller account**. You will now also find the address in Polkadot JS under `Accounts` — reload the page if this is not the case.
 
-![](<../.gitbook/assets/image (95) (1).png>)
+![](<../.gitbook/assets/image (95) (1) (1).png>)
 
 ### **Step 3: Stake your KSM token** <a href="#ead8" id="ead8"></a>
 
@@ -82,7 +82,7 @@ Before starting the Nomination process, send some funds from your Stash to your 
 
 To start the staking process, click “Staking” in the “Network” drop-down menu.&#x20;
 
-![](<../.gitbook/assets/image (107).png>)
+![](<../.gitbook/assets/image (107) (1).png>)
 
 Afterward, visit the “Account actions” tab and click the “+ Validator” — button.
 
