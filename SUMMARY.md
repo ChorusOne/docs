@@ -25,3 +25,4 @@
 * [Secret Network](staking-guides/secret-network.md)
 * [Skale](staking-guides/skale.md)
 * [Solana](staking-guides/solana.md)
+* [Terra](staking-guides/terra.md)

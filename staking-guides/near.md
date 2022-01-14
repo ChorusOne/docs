@@ -54,7 +54,7 @@ After you do that, you will be brought to the _Account Verify_ screen. You will 
 
 If you use email you will be taken to the next screen to enter the 6-digit verification code.
 
-![](<../.gitbook/assets/image (55) (1).png>)
+![](<../.gitbook/assets/image (55) (1) (1).png>)
 
 ### 2. Fund your account to get Near ID
 

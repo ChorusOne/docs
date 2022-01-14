@@ -56,7 +56,7 @@ Enter an account name and a passphrase to unlock your wallet. You will be asked 
 
 Finally, click on `Next` to create your account
 
-![](<../.gitbook/assets/image (55) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (55) (1) (1) (1) (1) (1).png>)
 
 ### 3. Log in to your account
 
@@ -88,7 +88,7 @@ Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve
 There is a 21-day unbonding process for staked SCRT tokens during which delegator SCRTs do not earn rewards and cannot be transferred, exchanged, or spent. SCRTs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-![](<../.gitbook/assets/image (96) (1).png>)
+![](<../.gitbook/assets/image (96) (1) (1).png>)
 
 ### 5. Claiming rewards
 

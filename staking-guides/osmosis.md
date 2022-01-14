@@ -58,7 +58,7 @@ Enter an account name and a passphrase to unlock your wallet. You will be asked 
 
 Finally, click on `Next` to create your account
 
-![](<../.gitbook/assets/image (55) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (55) (1) (1) (1) (1) (1).png>)
 
 ### 3. Log in to your account
 

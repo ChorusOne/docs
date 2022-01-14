@@ -30,7 +30,7 @@ Click on the extension card and add it to your browser.
 
 After adding to your browser it will appear as a **P** icon in the toolbar
 
-![](<../.gitbook/assets/image (118).png>)
+![](<../.gitbook/assets/image (118) (1).png>)
 
 {% hint style="info" %}
 Please note **it is recommended to create two accounts:** one to use as the controller account and one to use as your stash account. Learn more about this [here](https://wiki.polkadot.network/docs/en/learn-staking/#accounts)
@@ -43,7 +43,7 @@ Also, _**make sure you leave a small amount of DOT transferrable in your stash a
 \
 
 
-![](<../.gitbook/assets/image (98) (1) (1).png>)
+![](<../.gitbook/assets/image (98) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (49) (1).png>)
 
@@ -72,7 +72,7 @@ Go to the [Polkadot-JS UI main page](https://polkadot.js.org/apps/#/explorer). C
 
 Choose your Stash and Controller accounts. It is more **secure** to choose separate stash and controller accounts. So make sure you create a separate controller account first in the same manner as you created your stash account. Again, make sure you have funds in your controller account.
 
-![](<../.gitbook/assets/image (108) (1) (1).png>)
+![](<../.gitbook/assets/image (108) (1) (1) (1).png>)
 
 &#x20;Then select the amount you want to bond and the rewards destination and click "Next"
 
@@ -141,7 +141,7 @@ To stake go to the **Accounts** tab in the left panel and click on the account f
 
 Once you have your account opened click on `Manage` on the top-right and under it select `Earn Rewards`
 
-![](<../.gitbook/assets/image (110).png>)
+![](<../.gitbook/assets/image (110) (1).png>)
 
 Then enter the amount of DOTs you want to bond
 

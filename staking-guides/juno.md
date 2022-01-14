@@ -73,7 +73,7 @@ Click on `Claim` to collect these rewards
 
 Select `All` in the rewards selector dropdown and `approve`the transaction in Keplr&#x20;
 
-![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1).png>)
 
 &#x20;
 

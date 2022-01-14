@@ -86,7 +86,7 @@ After your transaction is successful you can go back to your Phantom wallet, cli
 
 If you click on your stake accounts you will see that your stake is activating. It takes 1 epoch for your stake to activate. An epoch in Solana lasts for approximately 2-3 days. After this period your stake will show up as active and will start earning rewards.
 
-![Activating](<../.gitbook/assets/image (93).png>)
+![Activating](<../.gitbook/assets/image (93) (1).png>)
 
 ## **How to u**nstake
 
@@ -96,5 +96,5 @@ If you click on your stake balance, you will be given the option to unstake. Uns
 
 After the stake become inactive you can withdraw it back to your Solana account
 
-![](<../.gitbook/assets/image (108).png>)![](<../.gitbook/assets/image (117).png>)
+![](<../.gitbook/assets/image (108) (1).png>)![](<../.gitbook/assets/image (117).png>)
 

@@ -32,7 +32,7 @@ Do not share your passphrase or private key with anyone. Doing so may cause loss
 
 If you already have a wallet, insert your Private key to log in to your wallet. Once the Private key is inserted, the button **Access the wallet** will be enabled, allowing you to enter inside your wallet.
 
-![](<../.gitbook/assets/image (65) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
 
 ### 2. Delegate to Chorus One
 

@@ -60,7 +60,7 @@ _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens be
 
 A modal will appear to confirm your stake. Please note the message about the lock schedule, and then click the `Stake` button to confirm.
 
-![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Confirm the transaction in Metamask. Once your transaction is completed on Ethereum with enough confirmations, this amount will be reflected on the Pre-stake page under `Total Pre-Staked INJ`. The amount should take about 2 minutes to appear.
 
