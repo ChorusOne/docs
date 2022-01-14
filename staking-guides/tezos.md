@@ -1,21 +1,18 @@
 ---
-description: How to bake your XTZ with
+description: How to bake your XTZ with Atomex Wallet
 ---
 
 # Tezos
 
 ## Overview
 
-
-
-| **Category**                     | **Details**                                                                                                   |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Chorus One Validator Address** | bandvaloper15urq2dtp9qce4fyc85m6upwm9xul3049fz627w                                                            |
-| **APY**                          | 11.2 %                                                                                                        |
-| **Wallet**                       | Keplr                                                                                                         |
-| **Block Explorer**               | [https://cosmoscan.io/](https://cosmoscan.io) \| [https://www.mintscan.io/band](https://www.mintscan.io/band) |
-| **Staking Rewards**              | [https://www.stakingrewards.com/earn/band-protocol/](https://www.stakingrewards.com/earn/band-protocol/)      |
-| **Unstaking Period**             | 21 Days                                                                                                       |
+| **Category**                     | **Details**                                                                             |
+| -------------------------------- | --------------------------------------------------------------------------------------- |
+| **Chorus One Validator Address** | tz1eEnQhbwf6trb8Q8mPb2RaPkNk2rN7BKi8 tz1Scdr2HsZiQjc7bHMeBbmDRXYVvdhjJbBh               |
+| **APY**                          | 5.6%                                                                                    |
+| **Wallet**                       | Atomex, Ledger                                                                          |
+| **Block Explorer**               | https://tzstats.com                                                                     |
+| **Staking Rewards**              | [https://www.stakingrewards.com/earn/tezos](https://www.stakingrewards.com/earn/tezos/) |
 
 ## How to stake using Atomex Wallet
 
