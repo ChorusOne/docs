@@ -27,7 +27,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
 
-![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (25).png>)
 

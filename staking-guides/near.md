@@ -119,7 +119,7 @@ Select `chorusone.poolv1.near` and click `Stak with Validator`. Then you are ask
 
 Select the amount you would like to Stake:
 
-![](<../.gitbook/assets/image (70) (1) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1) (1).png>)
 
 Once you have entered an amount, you must then confirm your stake as depicted in the picture below. All you have to do is click ‘Confirm’.
 

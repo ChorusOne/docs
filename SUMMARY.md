@@ -27,3 +27,4 @@
 * [Solana](staking-guides/solana.md)
 * [Terra](staking-guides/terra.md)
 * [Tezos](staking-guides/tezos.md)
+* [The Graph](staking-guides/the-graph.md)

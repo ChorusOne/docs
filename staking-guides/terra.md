@@ -6,8 +6,6 @@ description: How to stake your Luna with Terra Station Wallet
 
 ## Overview <a href="#use-terra-station-desktop" id="use-terra-station-desktop"></a>
 
-
-
 | **Category**                     | **Details**                                                                              |
 | -------------------------------- | ---------------------------------------------------------------------------------------- |
 | **Chorus One Validator Address** | terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37                                      |
@@ -27,7 +25,7 @@ Click the download link for your operating system. Open the downloaded file and 
 
 ### 2. Create/restore your wallet <a href="#create-a-wallet" id="create-a-wallet"></a>
 
-![Create a new wallet](<../.gitbook/assets/image (65).png>)
+![Create a new wallet](<../.gitbook/assets/image (65) (1).png>)
 
 In case you don't already have an account go ahead and follow the steps below to create a new wallet
 

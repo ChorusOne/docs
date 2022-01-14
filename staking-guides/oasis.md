@@ -44,7 +44,7 @@ Once you are connected, select the ‘STAKING’ tab.
 
 Find Chorus One among the list of validators and click `DELEGATE` in that row. The validators are sorted by their staking power. You can also see what commission they take on the staking rewards you earn, as well as how many people already delegate tokens to them.&#x20;
 
-![](<../.gitbook/assets/image (75) (1).png>)
+![](<../.gitbook/assets/image (75) (1) (1).png>)
 
 ### 3. Enter amount of ROSE to delegate
 
@@ -60,7 +60,7 @@ Sign the transaction by selecting the ‘SIGN AND SUBMIT’ button.
 
 Congratulations! You’re now staking your ROSE tokens, and you should see a screen that looks similar to the one below!
 
-![](<../.gitbook/assets/image (70) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1).png>)
 
 ## Official resources
 
