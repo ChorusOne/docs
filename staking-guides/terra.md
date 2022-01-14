@@ -83,7 +83,7 @@ Open Terra Station and click **Staking**. Search for `Chorus One` and click on t
 Notice the **100%** uptime of Chorus One. This shows that there was 0 downtime of Chorus One servers and that Chorus One validators were actively participating in securing the network (and thereby earning rewards) 100% of the time!
 {% endhint %}
 
-![Delegate to Chorus One](<../.gitbook/assets/image (90).png>)
+![Delegate to Chorus One](<../.gitbook/assets/image (90) (1).png>)
 
 In the **My delegations** section, click **Delegate**. A new window will appear. In the **Amount** field, specify the amount of Luna you want to delegate, and click **Next**.
 
@@ -94,7 +94,7 @@ In the **My delegations** section, click **Delegate**. A new window will appear.
 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can't make any transactions.
 {% endhint %}
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (98) (1).png>)
 
 Double-check the amounts and fees. Enter your password and click **Delegate**. Congratulations, you've just delegated Luna!
 

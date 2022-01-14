@@ -22,11 +22,11 @@ You can nominate validators (also known as **staking**) on Polkadot-JS UI using 
 
 [Create a Polkadot account](https://wiki.polkadot.network/docs/en/learn-account-generation) if you don’t have one already. Get the browser extension by visiting Polkadot.js.org/extension&#x20;
 
-![](<../.gitbook/assets/image (115) (1).png>)
+![](<../.gitbook/assets/image (115) (1) (1).png>)
 
 Click on the extension card and add it to your browser.
 
-![](<../.gitbook/assets/image (84).png>)
+![](<../.gitbook/assets/image (84) (1).png>)
 
 After adding to your browser it will appear as a **P** icon in the toolbar
 
@@ -43,7 +43,7 @@ Also, _**make sure you leave a small amount of DOT transferrable in your stash a
 \
 
 
-![](<../.gitbook/assets/image (98) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (98) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (49) (1).png>)
 
@@ -60,7 +60,7 @@ In this step, we will actually go through the process of staking which is compri
 * _**There is also a maximum of 22,500 nominators**_ in place at the moment. That means, if there are already 22,500 nominators, you will not be able to nominate, even if you have more than the minimum of 120 DOT staked. You can double-check the current number of nominators on the [Staking Overview](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.pinknode.io%2Fpolkadot%2Fexplorer#/staking) page. &#x20;
 {% endhint %}
 
-![](<../.gitbook/assets/image (114).png>)
+![](<../.gitbook/assets/image (114) (1).png>)
 
 Go to the [Polkadot-JS UI main page](https://polkadot.js.org/apps/#/explorer). Click the Staking link under the [Network tab at the top](https://polkadot.js.org/apps/#/staking). Click “Account actions” (on top). It may take a while to load. **If you're using a Ledger, skip the following steps and check the section below.**
 
@@ -115,7 +115,7 @@ Go to manager in the left panel and install Polkadot app if you haven't already
 
 Add your account by going to the Accounts tab in the left panel and clicking on the `Add Account`
 
-![](<../.gitbook/assets/image (85).png>)
+![](<../.gitbook/assets/image (85) (1).png>)
 
 Choose Polkadot in the popup that appears upon clicking **Add Account**
 
@@ -149,7 +149,7 @@ Then enter the amount of DOTs you want to bond
 
 To compound your rewards you can select the `Bonded Balance` tab instead of the `Available Balance` tab. Click `Continue` and confirm the bonding transaction on your device. Finally **Nominate** a validator in the next step
 
-![](<../.gitbook/assets/image (99) (1).png>)
+![](<../.gitbook/assets/image (99) (1) (1).png>)
 
 Polkadot allows Nominated proof of staking where you are allowed to nominate up to 16 validators. By clicking on the `Nominate` byou will be able to select the validator. Search for **Chorus One** and click `Continue.`
 

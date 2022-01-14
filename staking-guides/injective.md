@@ -52,7 +52,7 @@ _Depending on how much gas you submitted with the transaction and the current lo
 
 Once the transaction is completed on Ethereum, the Stake page will display a form where you can enter the amount of your ERC20 INJ tokens you would like to pre-stake.&#x20;
 
-![](<../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens before the staking competition is completed, you will not be eligible to receive any rewards._

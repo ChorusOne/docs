@@ -92,7 +92,7 @@ Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve
 There is a 21-day unbonding process for staked KAVAs during which delegator KAVAs do not earn rewards and cannot be transferred, exchanged, or spent. KAVAs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-![](<../.gitbook/assets/image (52) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
 
 Once your transaction is approved you will be able to see your Kava getting staked. **Congratulations you have successfully staked your $KAVA!!**
 

@@ -62,7 +62,7 @@ Now choose the amount of your SKL that you want to stake as well as a staking pe
 
 Your stake will become active by the beginning of the next epoch (first of every calendar month) and once your delegation is accepted by your chosen validator. Once your transaction is confirmed, you are presented with a summary of your staking request.
 
-![Please note that you need to stake more than 100SKL](<../.gitbook/assets/image (98) (1).png>)
+![Please note that you need to stake more than 100SKL](<../.gitbook/assets/image (98) (1) (1).png>)
 
 > And that’s a wrap! You are now helping to secure the Skale network for which you earn rewards. Congratulations and welcome aboard our Skale validator, good to have you with us!
 
