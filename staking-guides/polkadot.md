@@ -26,11 +26,11 @@ You can nominate validators (also known as **staking**) on Polkadot-JS UI using 
 
 Click on the extension card and add it to your browser.
 
-![](<../.gitbook/assets/image (84) (1).png>)
+![](<../.gitbook/assets/image (84) (1) (1).png>)
 
 After adding to your browser it will appear as a **P** icon in the toolbar
 
-![](<../.gitbook/assets/image (118) (1).png>)
+![](<../.gitbook/assets/image (118) (1) (1).png>)
 
 {% hint style="info" %}
 Please note **it is recommended to create two accounts:** one to use as the controller account and one to use as your stash account. Learn more about this [here](https://wiki.polkadot.network/docs/en/learn-staking/#accounts)

@@ -52,7 +52,7 @@ _Depending on how much gas you submitted with the transaction and the current lo
 
 Once the transaction is completed on Ethereum, the Stake page will display a form where you can enter the amount of your ERC20 INJ tokens you would like to pre-stake.&#x20;
 
-![](<../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens before the staking competition is completed, you will not be eligible to receive any rewards._
@@ -88,7 +88,7 @@ Under _My Balances_ you should be able to see how many INJ tokens you have in yo
 
 Before you can fully transfer your INJ tokens to Injective, you will have to approve the transfer of your Kovan INJ (KINJ) tokens by the smart contract on Kovan. Under the _Transfer_ section, click the lock icon to initiate the approval/unlock process.
 
-![](<../.gitbook/assets/image (48) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (48) (1) (1) (1) (1).png>)
 
 This will open a transaction request in Metamask. Your wallet will be provided with Kovan ETH to cover the gas fee. Confirm the transaction request to approve the transfer. Once your approval is confirmed, you will see a _Token Unlocked_ notification appear at the bottom right of the page. You will now be able to transfer your KINJ (Kovan INJ) tokens to the Injective Chain.
 

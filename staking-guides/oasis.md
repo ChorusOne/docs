@@ -60,7 +60,7 @@ Sign the transaction by selecting the ‘SIGN AND SUBMIT’ button.
 
 Congratulations! You’re now staking your ROSE tokens, and you should see a screen that looks similar to the one below!
 
-![](<../.gitbook/assets/image (70) (1) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1) (1).png>)
 
 ## Official resources
 

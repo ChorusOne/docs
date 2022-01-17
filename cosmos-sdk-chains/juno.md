@@ -81,4 +81,4 @@ Select `All` in the rewards selector dropdown and `approve`the transaction in Ke
 
 A pop up will appear indicating the success of your transaction. Your wallet balance would increase by the amount of tokens claimed
 
-![](<../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1) (1) (1) (1) (1).png>)

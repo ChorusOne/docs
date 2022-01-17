@@ -76,7 +76,7 @@ There are a few things to keep in mind when staking on the Skale network. Within
 
 In the `Token Inventory` menu you find an overview of how your funds are constituted. At the bottom of the page, you can find an overview of your staking operation. Please note that once you staked your SKL, the stake will become active in the subsequent epoch and will remain locked for the entire staking period. The validator you chose to stake with has to accept your delegation.&#x20;
 
-![The Token Inventory provides you with an overview of your staking operations](<../.gitbook/assets/image (91).png>)
+![The Token Inventory provides you with an overview of your staking operations](<../.gitbook/assets/image (91) (1).png>)
 
 ### 4. Skale Epochs & Rewards <a href="#22b0" id="22b0"></a>
 

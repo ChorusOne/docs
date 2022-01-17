@@ -21,20 +21,31 @@ The Cosmos Hub seeks to become the center of a network of blockchains abiding by
 
 ## How to stake ATOMs
 
-![](<../.gitbook/assets/image (31).png>)
+{% hint style="danger" %}
+Please note that the unstake period is 21 days. This means that you can only unstake and withdraw coins to your wallet after this time has passed. We wish you profitable staking!
+{% endhint %}
 
-1. Visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension
-2. Install the extension. This will be needed to create a wallet.
-3. Click on the extension and create a new account in case you do not already have an account
-4. You will be shown 12 words as your mnemonic seed. `24 words` option for a more secure mnemonic. _Back it up securely (read the warning below)_
-5. Enter an account name and a passphrase to unlock your wallet.
-6. You will be asked for the mnemonic again. Enter the 24 words in order. This is to make sure you remember the mnemonic. Click on `Register`&#x20;
-7. You may click on the extension to view your address or visit [https://wallet.keplr.app](https://wallet.keplr.app/#/dashboard) to see the full dashboard
-8. Add some ATOMs to your address. You may use an exchange to transfer the ATOMs to your address or get it from someone who already holds ATOM tokens
-9. To stake click on the COSMOS network in the left panel and click on `Stake`&#x20;
-10. You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage`&#x20;
-11. A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.
-12. Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
+### 1. Install Keplr Wallet Extension
+
+In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
+
+![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1) (1).png>)
+
+![](<../.gitbook/assets/image (25).png>)
+
+Click on `Install Keplr for Chrome` if you are using a Chrome browser or `Brave` if you are using the Brave browser and follow the installation instructions.
+
+### 2. Create/Import Account
+
+Click on the extension in the Chrome/Brave toolbar and the following page will open up.
+
+![](<../.gitbook/assets/image (26).png>)
+
+In case you do not have an existing Keplr account you can create a new account
+
+{% hint style="info" %}
+You will be shown 12 words as your mnemonic seed. Select`24 words` option for a more secure mnemonic. _Back it up securely (read the warning below)_
+{% endhint %}
 
 {% hint style="warning" %}
 **Back up your mnemonic seed securely.**&#x20;
@@ -43,24 +54,50 @@ The Cosmos Hub seeks to become the center of a network of blockchains abiding by
 * Lost mnemonic seed can't be recovered.
 {% endhint %}
 
+Enter an account name and a passphrase to unlock your wallet. You will be asked for the mnemonic again. Enter the 24 words in order. This is to make sure you remember the mnemonic.
+
+![](<../.gitbook/assets/image (50) (1) (1) (1) (1).png>)\`
+
+Finally, click on `Next` to create your account
+
+![](<../.gitbook/assets/image (55) (1) (1) (1) (1) (1).png>)
+
+### 3. Log in to your account
+
+Regardless of whether you already have an account or if you created it just now you may now click on the extension to view your address or visit [https://wallet.keplr.app/#/secret/stake](https://wallet.keplr.app/#/secret/stake) to see the full dashboard
+
+![](<../.gitbook/assets/image (71) (1) (1) (1).png>)
+
+### 4. Stake your ATOMs
+
+If you don't already have `ATOMs` in your account fund it with some tokens. You may use an exchange to transfer the ATOMs tokens to your address or get it from someone who already holds those.
+
+To stake click on the Cosmos network in the left panel and click on `Stake`&#x20;
+
+![](<../.gitbook/assets/image (31).png>)
+
+![](<../.gitbook/assets/image (72).png>)
+
+You will be shown a list of validators with whom to stake on the right side. Scroll to **Chorus One** and click on `Manage.`
+
+![](<../.gitbook/assets/image (91).png>)
+
+A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.&#x20;
+
+![](<../.gitbook/assets/image (104).png>)
+
+Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
+
+![](<../.gitbook/assets/image (107).png>)
+
 {% hint style="danger" %}
-There is a 21-day unbonding process for staked ATOMs during which delegator ATOMs do not earn rewards and cannot be transferred, exchanged, or spent. ATOMs can, however, be slashed during the unbonding period.
+There is a 21-day unbonding process for staked `ATOM` tokens during which delegator ATOMs do not earn rewards and cannot be transferred, exchanged, or spent. ATOMs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (118).png>)
 
-![](<../.gitbook/assets/image (25).png>)
+### 5. Claiming rewards
 
+After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-
-![](<../.gitbook/assets/image (26).png>)
-
-![](<../.gitbook/assets/image (27).png>)
-
-![](<../.gitbook/assets/image (28).png>)
-
-![](<../.gitbook/assets/image (30).png>)
-
-![](<../.gitbook/assets/image (32).png>)
-
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (84).png>)

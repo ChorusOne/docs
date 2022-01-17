@@ -92,7 +92,7 @@ If you click on your stake accounts you will see that your stake is activating. 
 
 If you click on your stake balance, you will be given the option to unstake. Unstaking also takes an epoch. Once you click `Unstake` your stake will start **deactivating** and will become fully **inactive** after a maximum of 3 days (1 epoch).
 
-![](<../.gitbook/assets/image (95) (1).png>)![](<../.gitbook/assets/image (94) (1).png>)
+![](<../.gitbook/assets/image (95) (1).png>)![](<../.gitbook/assets/image (94) (1) (1).png>)
 
 After the stake become inactive you can withdraw it back to your Solana account
 

@@ -24,8 +24,8 @@ We secure the following networks
 [centrifuge-staking-guide.md](staking-guides/centrifuge-staking-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="evm-chains/ethereum.md" %}
-[ethereum.md](evm-chains/ethereum.md)
+{% content-ref url="staking-guides/ethereum.md" %}
+[ethereum.md](staking-guides/ethereum.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/helium.md" %}

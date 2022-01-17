@@ -28,7 +28,7 @@ Let us see an example of each of these steps using Atomex wallet
 
 Go to [https://wallet.atomex.me/](https://wallet.atomex.me). Select `My Wallets` in case you already have an account otherwise click on `CREATE NEW WALLET`&#x20;
 
-![](<../.gitbook/assets/image (84).png>)
+![](<../.gitbook/assets/image (84) (1).png>)
 
 If you are creating a new wallet then follow the onscreen instructions.
 

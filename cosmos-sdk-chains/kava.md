@@ -29,7 +29,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
 
-![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (25).png>)
 
@@ -86,13 +86,13 @@ A modal with Chorus One's description will pop up. Click once on `Delegate` to e
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 
-![](<../.gitbook/assets/image (72) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (72) (1) (1) (1) (1) (1).png>)
 
 {% hint style="danger" %}
 There is a 21-day unbonding process for staked KAVAs during which delegator KAVAs do not earn rewards and cannot be transferred, exchanged, or spent. KAVAs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-![](<../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
 
 Once your transaction is approved you will be able to see your Kava getting staked. **Congratulations you have successfully staked your $KAVA!!**
 

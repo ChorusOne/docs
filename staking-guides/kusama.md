@@ -27,7 +27,7 @@ Since it is recommended by Polkadot / Kusama for most users to use the Polkadot.
 
 Make sure to install the Polkadot.js Browser Extension before you get started. You can download the extension for [Chrome/Brave](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd?hl=en) and [FireFox](https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/).
 
-![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1).png>)
 
 ### Step 1: Create a Kusama Account <a href="#1e2f" id="1e2f"></a>
 
@@ -82,7 +82,7 @@ Before starting the Nomination process, send some funds from your Stash to your 
 
 To start the staking process, click “Staking” in the “Network” drop-down menu.&#x20;
 
-![](<../.gitbook/assets/image (107) (1).png>)
+![](<../.gitbook/assets/image (107) (1) (1).png>)
 
 Afterward, visit the “Account actions” tab and click the “+ Validator” — button.
 

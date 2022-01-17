@@ -17,8 +17,8 @@
 
 ## EVM Chains
 
-* [Ethereum](evm-chains/ethereum.md)
-* [The Graph](evm-chains/the-graph.md)
+* [Ethereum](staking-guides/ethereum.md)
+* [The Graph](staking-guides/the-graph.md)
 
 ## Others <a href="#staking-guides" id="staking-guides"></a>
 
