@@ -4,7 +4,7 @@ description: How to stake ETH using Metamask in Lido
 
 # Ethereum
 
-## ![](../.gitbook/assets/ethereum-3.png)Getting Started
+## Overview
 
 Ethereum is the home of most blockchain applications including a wide variety of decentralized finance (DeFi) protocols. Ethereum launched as a Proof-of-Work network but is migrating to Proof-of-Stake for efficiency and scalability reasons.
 

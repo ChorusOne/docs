@@ -4,7 +4,7 @@ description: How to stake your Injective using Metamask
 
 # Injective
 
-## About
+## Overview
 
 The Injective Chain is a layer-2 sidechain and Cosmos Zone connected to Ethereum. Injective supports permissionless trading on arbitrary derivative markets, allowing individuals to create and trade on any derivative market of their choosing. The Injective protocol is implemented on top of Tendermint using the Cosmos-SDK which hosts Injective's decentralized order-book and trade execution coordinator.
 

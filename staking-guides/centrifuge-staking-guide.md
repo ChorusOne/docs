@@ -4,7 +4,7 @@ description: How to stake on Centrifuge using Polkadot
 
 # Centrifuge
 
-## ![](../.gitbook/assets/centrifuge-3.png) Getting Started
+## Overview
 
 Centrifuge is building the operating system to connect the global financial supply chain.
 

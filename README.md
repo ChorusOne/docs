@@ -10,8 +10,8 @@ Chorus One is operating the infrastructure to secure Proof-of-Stake blockchain n
 
 We secure the following networks
 
-{% content-ref url="staking-guides/band-staking-guide.md" %}
-[band-staking-guide.md](staking-guides/band-staking-guide.md)
+{% content-ref url="cosmos-sdk-chains/band-staking-guide.md" %}
+[band-staking-guide.md](cosmos-sdk-chains/band-staking-guide.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/celo-staking-guide.md" %}
@@ -30,16 +30,16 @@ We secure the following networks
 [helium.md](staking-guides/helium.md)
 {% endcontent-ref %}
 
-{% content-ref url="staking-guides/injective.md" %}
-[injective.md](staking-guides/injective.md)
+{% content-ref url="cosmos-sdk-chains/injective.md" %}
+[injective.md](cosmos-sdk-chains/injective.md)
 {% endcontent-ref %}
 
-{% content-ref url="staking-guides/juno.md" %}
-[juno.md](staking-guides/juno.md)
+{% content-ref url="cosmos-sdk-chains/juno.md" %}
+[juno.md](cosmos-sdk-chains/juno.md)
 {% endcontent-ref %}
 
-{% content-ref url="staking-guides/kava.md" %}
-[kava.md](staking-guides/kava.md)
+{% content-ref url="cosmos-sdk-chains/kava.md" %}
+[kava.md](cosmos-sdk-chains/kava.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/kusama.md" %}

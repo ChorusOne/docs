@@ -4,7 +4,7 @@ description: How to stake on Cosmos using Keplr wallet
 
 # Cosmos
 
-## ![](../.gitbook/assets/cosmos-3.png) Getting Started
+## Overview
 
 The Cosmos Hub keeps track of balances and routes transactions through the internet of blockchains. When you stake your ATOMs with Chorus One you can earn rewards up to 9.67% per annum.
 

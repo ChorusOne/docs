@@ -4,7 +4,7 @@ description: How to stake on Celo using Celowallet
 
 # Celo
 
-## ![](../.gitbook/assets/celo-3.png) Getting Started
+## Overview
 
 Celo is an open platform that makes financial tools accessible to anyone with a mobile phone. When you stake your CELO tokens with Chorus One you can earn rewards up to 13.2% per annum.
 

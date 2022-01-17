@@ -6,7 +6,7 @@ description: >-
 
 # Band
 
-## ![](../.gitbook/assets/band-3.png) Getting Started
+## Overview
 
 Band Protocol staking can be done through Ledger hardware wallets. When you stake your BAND tokens with Chorus One you can earn rewards up to 11.2% per annum.
 
@@ -31,17 +31,17 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 Please follow the guide below explaining how to stake BAND tokens using a Ledger Nano S/Nano X hardware wallet.
 
-## Step 1. Launch the Ledger Live app <a href="#9465" id="9465"></a>
+### 1. Launch the Ledger Live app <a href="#9465" id="9465"></a>
 
 ![](../.gitbook/assets/image.png)
 
-## Step 2. Download Cosmos (ATOM) using Ledger Live <a href="#d11a" id="d11a"></a>
+### 2. Download Cosmos (ATOM) using Ledger Live <a href="#d11a" id="d11a"></a>
 
 You will first need to install the Cosmos application (ATOM) from the Ledger Live Directory as the Band Protocol uses Cosmos SDK.
 
 ![](<../.gitbook/assets/image (1).png>)
 
-## Step 3. Connect your Ledger device to your web wallet <a href="#a8cf" id="a8cf"></a>
+### 3. Connect your Ledger device to your web wallet <a href="#a8cf" id="a8cf"></a>
 
 Go to the block explorer [website Cosmoscan.io ](http://cosmoscan.io)and click the `Connect` _****_ button in the upper right corner as shown in the image.
 
@@ -70,7 +70,7 @@ Once opened, Cosmoscan.io will ask for permission to connect to the HID device. 
 
 Success! The hardware wallet is successfully connected.
 
-## Step 4. Top up your wallet <a href="#2d33" id="2d33"></a>
+### 4. Top up your wallet <a href="#2d33" id="2d33"></a>
 
 To get the BAND address, on the main page of the Cosmoscan.io browser, click on the profile icon in the upper right corner, copy the displayed address and send tokens to it.
 
@@ -78,13 +78,13 @@ To get the BAND address, on the main page of the Cosmoscan.io browser, click on 
 
 After the coins arrive in the wallet, you can proceed to BAND staking.
 
-## Step 5. Choose a validator <a href="#06f0" id="06f0"></a>
+### 5. Choose a validator <a href="#06f0" id="06f0"></a>
 
 You need to select a validator to delegate your BAND tokens. Go to the `Validators` tab (which you saw in the screenshot). Then select a validator from the list, or just start typing its name. We suggest voting for **Chorus One** — a reliable and proven validator present on over 25 networks. We have highly available infrastructure and high uptime (uninterrupted functioning time).
 
 Click on the validator to continue.
 
-## Step 6. Delegate BAND <a href="#6a1c" id="6a1c"></a>
+### 6. Delegate BAND <a href="#6a1c" id="6a1c"></a>
 
 On the page, click `Delegate`.
 
