@@ -2,6 +2,8 @@
 description: >-
   Get started with staking guides of over 25 networks and more research
   material!
+cover: .gitbook/assets/Screenshot 2022-01-17 at 11.58.51 AM.png
+coverY: 0
 ---
 
 # Welcome to Chorus One Docs
@@ -22,8 +24,8 @@ We secure the following networks
 [centrifuge-staking-guide.md](staking-guides/centrifuge-staking-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="staking-guides/ethereum.md" %}
-[ethereum.md](staking-guides/ethereum.md)
+{% content-ref url="evm-chains/ethereum.md" %}
+[ethereum.md](evm-chains/ethereum.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/helium.md" %}
