@@ -18,20 +18,20 @@
 ## EVM Chains
 
 * [Ethereum](staking-guides/ethereum.md)
+* [Skale](evm-chains/skale.md)
 * [The Graph](staking-guides/the-graph.md)
 
-## Others <a href="#staking-guides" id="staking-guides"></a>
+## Solana, Substrate chains and Others <a href="#others" id="others"></a>
 
-* [Celo](staking-guides/celo-staking-guide.md)
-* [Centrifuge](staking-guides/centrifuge-staking-guide.md)
-* [Helium](staking-guides/helium.md)
-* [Kusama](staking-guides/kusama.md)
-* [Mina](staking-guides/mina.md)
-* [Near](staking-guides/near.md)
-* [Oasis](staking-guides/oasis.md)
-* [Polkadot](staking-guides/polkadot.md)
-* [Provenance](staking-guides/provenance.md)
-* [Skale](staking-guides/skale.md)
-* [Solana](staking-guides/solana.md)
-* [Terra](staking-guides/terra.md)
-* [Tezos](staking-guides/tezos.md)
+* [Celo](others/celo-staking-guide.md)
+* [Centrifuge](others/centrifuge-staking-guide.md)
+* [Helium](others/helium.md)
+* [Kusama](others/kusama.md)
+* [Mina](others/mina.md)
+* [Near](others/near.md)
+* [Oasis](others/oasis.md)
+* [Polkadot](others/polkadot.md)
+* [Provenance](others/provenance.md)
+* [Solana](others/solana.md)
+* [Terra](others/terra.md)
+* [Tezos](others/tezos.md)
