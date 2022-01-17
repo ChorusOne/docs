@@ -29,6 +29,8 @@ Make sure to install the Polkadot.js Browser Extension before you get started. Y
 
 ![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1).png>)
 
+## How to stake <a href="#db34" id="db34"></a>
+
 ### Step 1: Create a Kusama Account <a href="#1e2f" id="1e2f"></a>
 
 Once you successfully installed the extension, click on the icon for Poladot extension - a `P` button in your browser bar to open the interface. You will be prompted to create an account if you don't have one already.

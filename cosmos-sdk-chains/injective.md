@@ -17,7 +17,7 @@ The Injective Chain is a layer-2 sidechain and Cosmos Zone connected to Ethereum
 | **Staking Rewards**    | [https://www.stakingrewards.com/earn/injective-protocol/](https://www.stakingrewards.com/earn/injective-protocol/)                                                                                |
 | **Unbonding Period**   | **Withdrawal Delay:** After withdrawing, your staked funds will only become accessible after the unbonding period (1 day) has passed. It takes a further 7 days to withdraw INJ back to Ethereum. |
 
-## How to Delegate <a href="#8662" id="8662"></a>
+## How to stake <a href="#8662" id="8662"></a>
 
 ### 1. Connect Your Wallet <a href="#8662" id="8662"></a>
 

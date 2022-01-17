@@ -19,7 +19,7 @@ The Cosmos Hub keeps track of balances and routes transactions through the inter
 
 The Cosmos Hub seeks to become the center of a network of blockchains abiding by the standards of the [Inter-Blockchain Communication protocol (IBC).](https://chorus.one/networks/cosmos/) Cosmos technologies like Tendermint and the Cosmos SDK framework are used by projects like Binance Chain, Band, Terra, Kava, Aragon, and others - securing multiple billions of dollars in value. By delegating ATOM to Cosmos Hub validators like Chorus One, stakers receive a share of inflationary token rewards, as well as fees from transactions that go through the Hub, for example for routing tokens between two IBC-compatible blockchains.
 
-## How to stake ATOMs
+## How to stake
 
 {% hint style="danger" %}
 Please note that the unstake period is 21 days. This means that you can only unstake and withdraw coins to your wallet after this time has passed. We wish you profitable staking!

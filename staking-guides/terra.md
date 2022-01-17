@@ -14,6 +14,8 @@ description: How to stake your Luna with Terra Station Wallet
 | **Block Explorer**               | [https://terra.stake.id/#/](https://terra.stake.id/#/)                                   |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/terra/](https://www.stakingrewards.com/earn/terra/) |
 
+## How to stake <a href="#db34" id="db34"></a>
+
 ### 1. Install Terra Station <a href="#install-terra-station" id="install-terra-station"></a>
 
 Click the download link for your operating system. Open the downloaded file and follow the instructions.

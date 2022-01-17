@@ -14,6 +14,8 @@ description: How to stake Minawith Clorio wallet
 | **Block Explorer**               | [https://mina.staketab.com/](https://mina.staketab.com)                                |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/mina/](https://www.stakingrewards.com/earn/mina/) |
 
+## How to stake <a href="#db34" id="db34"></a>
+
 ### 1. Create Account and Login
 
 First of all, you have to log into your wallet.

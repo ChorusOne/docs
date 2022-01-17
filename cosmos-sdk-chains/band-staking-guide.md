@@ -31,6 +31,8 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 Please follow the guide below explaining how to stake BAND tokens using a Ledger Nano S/Nano X hardware wallet.
 
+## How to stake
+
 ### 1. Launch the Ledger Live app <a href="#9465" id="9465"></a>
 
 ![](../.gitbook/assets/image.png)

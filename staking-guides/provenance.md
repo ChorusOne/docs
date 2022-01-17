@@ -15,6 +15,8 @@ description: How to stake HASH tokens using Provenance Wallet
 
 The easiest way to stake your $Hash to a validator is by using the [Provenance Blockchain Explorer.](https://explorer.provenance.io)
 
+## How to stake <a href="#db34" id="db34"></a>
+
 ### 1. Connect Your Wallet to Explorer
 
 If you have a Provenance Blockchain or Figure Wallet, navigate to the Provenance Blockchain Explorer and click the "Connect Wallet" key in the upper right-hand corner and select your wallet type:

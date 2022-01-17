@@ -21,6 +21,8 @@ The Secret Network is focused on facilitating privacy-preserving smart contracts
 Please note that the unstake period is 21 days. This means that you can only unstake and withdraw coins to your wallet after this time has passed. We wish you profitable staking!
 {% endhint %}
 
+## How to stake
+
 ### 1. Install Keplr Wallet Extension
 
 In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;

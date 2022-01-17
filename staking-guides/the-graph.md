@@ -33,6 +33,8 @@ Using the Network Beta dApp with Metamask allows you to use a hardware wallet su
 
 ![In case you want to use a Ledger device, connect it to Metamask before getting started](https://miro.medium.com/max/1400/1\*2d6rj7mW8BwtCDm0t49wMg.png)
 
+## How to stake <a href="#db34" id="db34"></a>
+
 ### 1. Create/log in to your account <a href="#db34" id="db34"></a>
 
 If you do not have an ERC-20 address yet, create one using the Metamask wallet.

@@ -6,6 +6,16 @@ description: How to stake your Juno with the Omniflix UI and Keplr browser exten
 
 ## Overview
 
+
+
+| Category                         | Details                                                      |
+| -------------------------------- | ------------------------------------------------------------ |
+| **Chorus One Validator Address** | junovaloper15urq2dtp9qce4fyc85m6upwm9xul304945tllg           |
+| **Wallet**                       | Keplr                                                        |
+| **APR**                          | 120%                                                         |
+| **Block Explorer**               | [https://www.mintscan.io/juno](https://www.mintscan.io/juno) |
+| **Unstaking Period**             | 21 Days                                                      |
+
 In this tutorial, we will learn how to stake Juno to Chorus One. This will earn you rewards and help to secure the Juno network.&#x20;
 
 {% hint style="info" %}
@@ -15,6 +25,8 @@ For users with a Juno stakedrop allocation, you will need to add your Juno walle
 {% hint style="warning" %}
 Delegation of your tokens to a validator will make them unusable for any other purpose. The tokens become "bonded". To "unbond" your tokens, you will need to un-delegate them. This process takes **28 days**. During this unbonding time, you **will NOT receive rewards**.
 {% endhint %}
+
+## How to stake
 
 ### 1. Login with Keplr browser extension
 

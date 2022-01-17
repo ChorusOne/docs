@@ -23,7 +23,7 @@ Users of the Kava CDP system earn KAVA tokens and can delegate them to validator
 Please note that the unstake period is 21 days. This means that you can only unstake and withdraw coins to your wallet after this time has passed. We wish you profitable staking!
 {% endhint %}
 
-
+## How to stake
 
 ### 1. Install Keplr Wallet Extension
 
