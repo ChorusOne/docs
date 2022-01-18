@@ -54,7 +54,15 @@ We secure the following networks
 [secret-network.md](cosmos-sdk-chains/secret-network.md)
 {% endcontent-ref %}
 
+{% content-ref url="cosmos-sdk-chains/terra.md" %}
+[terra.md](cosmos-sdk-chains/terra.md)
+{% endcontent-ref %}
+
 ## EVM Chains
+
+{% content-ref url="evm-chains/celo-staking-guide.md" %}
+[celo-staking-guide.md](evm-chains/celo-staking-guide.md)
+{% endcontent-ref %}
 
 {% content-ref url="staking-guides/ethereum.md" %}
 [ethereum.md](staking-guides/ethereum.md)
@@ -69,10 +77,6 @@ We secure the following networks
 {% endcontent-ref %}
 
 ## Others
-
-{% content-ref url="evm-chains/celo-staking-guide.md" %}
-[celo-staking-guide.md](evm-chains/celo-staking-guide.md)
-{% endcontent-ref %}
 
 {% content-ref url="staking-guides/centrifuge-staking-guide.md" %}
 [centrifuge-staking-guide.md](staking-guides/centrifuge-staking-guide.md)
@@ -104,10 +108,6 @@ We secure the following networks
 
 {% content-ref url="staking-guides/solana.md" %}
 [solana.md](staking-guides/solana.md)
-{% endcontent-ref %}
-
-{% content-ref url="cosmos-sdk-chains/terra.md" %}
-[terra.md](cosmos-sdk-chains/terra.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/tezos.md" %}

@@ -6,13 +6,29 @@ description: How to stake Kusama with Polkadot JS and the Polkadot Browser Exten
 
 ## Overview
 
-| Category                         | Details                                                                                    |
-| -------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Chorus One Validator Address** | JLKcPk652UTtQfyrk7keyU6vqAEj5JXzDAvQdPxB1DJTnZ3                                            |
-| **Wallet**                       | PolkadotJS                                                                                 |
-| **APR**                          | 14.85                                                                                      |
-| **Block Explorer**               | https://kusama.subscan.io                                                                  |
-| **Staking Rewards**              | [https://www.stakingrewards.com/earn/kusama/](https://www.stakingrewards.com/earn/kusama/) |
+| Category                         | Details                                                                        |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| **Chorus One Validator Address** | `JLKcPk652UTtQfyrk7keyU6vqAEj5JXzDAvQdPxB1DJTnZ3`                              |
+| **Wallet**                       | PolkadotJS                                                                     |
+| **APR**                          | 14.85                                                                          |
+| **Block Explorer**               | https://kusama.subscan.io                                                      |
+| **Staking Rewards**              | [stakingrewards.com/earn/kusama/](https://www.stakingrewards.com/earn/kusama/) |
+
+### Delegation Addresses
+
+```
+Faaf2qgwtaFum78U8TdEPnUd4u7HPk65cdaFj7KbEA6wi2Y
+```
+
+```
+HRMhY2CtVMp2yVSieKvq8Y8FHAhRKrGGMd6MoQe3iN6uJ2D
+```
+
+```
+FiBHHbxDiVysvn5YBV78YFVUUykZRfQYhjxymu8VXnTqNMr
+```
+
+### Introduction
 
 In this step-by-step guide, you will learn how to stake your KSMs, the native token of the Kusama blockchain, using Polkadot JS and the Polkadot Browser Extension. You will go through the following key steps:
 
