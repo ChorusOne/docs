@@ -17,13 +17,13 @@
 
 ## EVM Chains
 
+* [Celo](evm-chains/celo-staking-guide.md)
 * [Ethereum](staking-guides/ethereum.md)
 * [Skale](staking-guides/skale.md)
 * [The Graph](staking-guides/the-graph.md)
 
 ## Solana, Substrate chains and Others <a href="#others" id="others"></a>
 
-* [Celo](staking-guides/celo-staking-guide.md)
 * [Centrifuge](staking-guides/centrifuge-staking-guide.md)
 * [Helium](staking-guides/helium.md)
 * [Kusama](staking-guides/kusama.md)

@@ -70,8 +70,8 @@ We secure the following networks
 
 ## Others
 
-{% content-ref url="staking-guides/celo-staking-guide.md" %}
-[celo-staking-guide.md](staking-guides/celo-staking-guide.md)
+{% content-ref url="evm-chains/celo-staking-guide.md" %}
+[celo-staking-guide.md](evm-chains/celo-staking-guide.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/centrifuge-staking-guide.md" %}
