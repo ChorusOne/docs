@@ -8,11 +8,21 @@ description: How to stake your DOTs with PolkadotJS UI
 
 | Category                         | Details                                                                                                              |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Chorus One Validator Address** | 121GBc2ZK53Uoc6JovJjU7zARH8fys5efyUfHKT9vABpqajx                                                                     |
+| **Chorus One Validator Address** | __[_See the section below_](polkadot.md#validator-addresses)__                                                       |
 | **Wallet**                       | Polkadot JS                                                                                                          |
 | **APR**                          | 13%                                                                                                                  |
 | **Block Explorer**               | [https://polkadot.subscan.io/](https://polkadot.subscan.io/account/12C9U6zSSoZ6pgwR2ksFyBLgQH6v7dkqqPCRyHceoP8MJRo2) |
 | **Staking Rewards**              | [stakingrewards.com/earn/polkadot/](https://www.stakingrewards.com/earn/polkadot/)                                   |
+
+### Validator Addresses
+
+```
+12C9U6zSSoZ6pgwR2ksFyBLgQH6v7dkqqPCRyHceoP8MJRo2
+```
+
+```
+16XF84j2wQ9wjkqRM2Y8ceCaw8dQu7t3ve9P9XbBj5kaRZxY
+```
 
 ## How to stake using Polkadot UI
 

@@ -8,13 +8,13 @@ description: How to stake Kusama with Polkadot JS and the Polkadot Browser Exten
 
 | Category                         | Details                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------ |
-| **Chorus One Validator Address** | `JLKcPk652UTtQfyrk7keyU6vqAEj5JXzDAvQdPxB1DJTnZ3`                              |
+| **Chorus One Validator Address** | __[_See the section below_](kusama.md#delegation-addresses)__                  |
 | **Wallet**                       | PolkadotJS                                                                     |
-| **APR**                          | 14.85                                                                          |
+| **APR**                          | 14.85%                                                                         |
 | **Block Explorer**               | https://kusama.subscan.io                                                      |
 | **Staking Rewards**              | [stakingrewards.com/earn/kusama/](https://www.stakingrewards.com/earn/kusama/) |
 
-### Delegation Addresses
+### Validator Addresses
 
 ```
 Faaf2qgwtaFum78U8TdEPnUd4u7HPk65cdaFj7KbEA6wi2Y
@@ -26,6 +26,14 @@ HRMhY2CtVMp2yVSieKvq8Y8FHAhRKrGGMd6MoQe3iN6uJ2D
 
 ```
 FiBHHbxDiVysvn5YBV78YFVUUykZRfQYhjxymu8VXnTqNMr
+```
+
+```
+DriCrAgdVV57NeQm5bWn5KQpVndVnXnm55BjRpe6qzZ5ktJ
+```
+
+```
+GcqKn3HHodwcFc3Pg3Evcbc43m7qJNMiMv744e5WMSS7TGn
 ```
 
 ### Introduction
