@@ -6,13 +6,13 @@ description: How to stake your DOTs with PolkadotJS UI
 
 ## Overview
 
-| Category                         | Details                                                                                                              |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Chorus One Validator Address** | __[_See the section below_](polkadot.md#validator-addresses)__                                                       |
-| **Wallet**                       | Polkadot JS                                                                                                          |
-| **APR**                          | 13%                                                                                                                  |
-| **Block Explorer**               | [https://polkadot.subscan.io/](https://polkadot.subscan.io/account/12C9U6zSSoZ6pgwR2ksFyBLgQH6v7dkqqPCRyHceoP8MJRo2) |
-| **Staking Rewards**              | [stakingrewards.com/earn/polkadot/](https://www.stakingrewards.com/earn/polkadot/)                                   |
+| Category                         | Details                                                                                                                          |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Chorus One Validator Address** | __[_<mark style="color:blue;">See the section below</mark>_](polkadot.md#validator-addresses)_<mark style="color:blue;"></mark>_ |
+| **Wallet**                       | Polkadot JS                                                                                                                      |
+| **APR**                          | 13%                                                                                                                              |
+| **Block Explorer**               | [https://polkadot.subscan.io/](https://polkadot.subscan.io/account/12C9U6zSSoZ6pgwR2ksFyBLgQH6v7dkqqPCRyHceoP8MJRo2)             |
+| **Staking Rewards**              | [stakingrewards.com/earn/polkadot/](https://www.stakingrewards.com/earn/polkadot/)                                               |
 
 ### Validator Addresses
 
