@@ -106,8 +106,8 @@ We secure the following networks
 [solana.md](staking-guides/solana.md)
 {% endcontent-ref %}
 
-{% content-ref url="staking-guides/terra.md" %}
-[terra.md](staking-guides/terra.md)
+{% content-ref url="cosmos-sdk-chains/terra.md" %}
+[terra.md](cosmos-sdk-chains/terra.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/tezos.md" %}

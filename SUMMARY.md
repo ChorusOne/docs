@@ -14,6 +14,7 @@
 * [Persistence](cosmos-sdk-chains/persistence.md)
 * [Regen](cosmos-sdk-chains/regen.md)
 * [Secret Network](cosmos-sdk-chains/secret-network.md)
+* [Terra](cosmos-sdk-chains/terra.md)
 
 ## EVM Chains
 
@@ -33,5 +34,4 @@
 * [Polkadot](staking-guides/polkadot.md)
 * [Provenance](staking-guides/provenance.md)
 * [Solana](staking-guides/solana.md)
-* [Terra](staking-guides/terra.md)
 * [Tezos](staking-guides/tezos.md)
