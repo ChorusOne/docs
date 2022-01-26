@@ -102,8 +102,8 @@ We secure the following networks
 [polkadot.md](staking-guides/polkadot.md)
 {% endcontent-ref %}
 
-{% content-ref url="staking-guides/provenance.md" %}
-[provenance.md](staking-guides/provenance.md)
+{% content-ref url="cosmos-sdk-chains/provenance.md" %}
+[provenance.md](cosmos-sdk-chains/provenance.md)
 {% endcontent-ref %}
 
 {% content-ref url="staking-guides/solana.md" %}
