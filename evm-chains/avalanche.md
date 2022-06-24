@@ -57,7 +57,7 @@ Since you want to delegate your AVAX, click on `DELEGATE` and then `ADD DELEGATO
 
 ### 5. Confirm Delegation
 
-Select the end date for your stake, the amount for staking and click on `Confirm`. That's it. Congratulations. Your AVAX will now start earning rewards and you've just made the network more secure ![👏](https://abs-0.twimg.com/emoji/v2/svg/1f44f.svg) If this [#AVAX![](https://abs.twimg.com/hashflags/avalancheavax\_May\_2022/avalancheavax\_May\_2022.png)](https://twitter.com/hashtag/AVAX?src=hashtag\_click) staking guide helped you, send it to a friend.
+Select the end date for your stake, the amount for staking and click on `Confirm`. That's it. Congratulations. Your AVAX will now start earning rewards and you've just made the network more secure. If this AVAX staking guide helped you, share it with a friend!
 
 {% hint style="info" %}
 The minimum staking duration is two weeks. A delegator will receive a higher percentage of rewards if they decide to stake for longer amounts (up to a year), thus incentivizing longer stake lengths.
