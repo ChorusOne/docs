@@ -25,7 +25,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 ### 1. Install Keplr Wallet Extension
 
-In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
+In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app/) and click on Install extension.&#x20;
 
 ![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1) (1).png>)
 
@@ -90,10 +90,10 @@ Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve
 There is a 21-day unbonding process for staked AKTs during which delegator AKTs do not earn rewards and cannot be transferred, exchanged, or spent. AKTs can, however, be slashed during the unbonding period.
 {% endhint %}
 
-### ![](<../.gitbook/assets/image (65).png>)
+### ![](<../.gitbook/assets/image (65) (1).png>)
 
 ### 5. Claiming rewards
 
 After some time you will see rewards getting accumulated in your account. You can simply go to the Keplr extension to claim them.
 
-![](<../.gitbook/assets/image (103).png>)
+![](<../.gitbook/assets/image (103) (1).png>)

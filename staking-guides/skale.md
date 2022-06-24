@@ -7,7 +7,7 @@
 | **Chorus One Validator Address** | 0x7e32a321A9a0c8B06058CA0230a3E4D11d2a9411                                             |
 | **Wallet**                       | Metamask                                                                               |
 | **APR**                          | 10%                                                                                    |
-| **Block Explorer**               | [https://explorer.skale.network/](https://explorer.skale.network)                      |
+| **Block Explorer**               | [https://explorer.skale.network/](https://explorer.skale.network/)                     |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/skale](https://www.stakingrewards.com/earn/skale) |
 
 
@@ -30,7 +30,7 @@ Staking your SKL via the Activate platform and Metamask involves three main step
 
 #### 1a. Create an Account on the Activate Platform <a href="#3c65" id="3c65"></a>
 
-[Visit the Consensys Activate homepage](https://activate.codefi.network) and click “Sign Up” in the top right corner. Fill out the required information and make sure to **choose a strong password** for your account (_Required: Minimum 8 characters, 1 number, 1 special character, 1 lowercase, 1 uppercase_).
+[Visit the Consensys Activate homepage](https://activate.codefi.network/) and click “Sign Up” in the top right corner. Fill out the required information and make sure to **choose a strong password** for your account (_Required: Minimum 8 characters, 1 number, 1 special character, 1 lowercase, 1 uppercase_).
 
 You need to verify your eMail address via a confirmation mail that is sent to you right after you filled out the required information. Click the link in the eMail and sign in to your newly created Activate account.
 

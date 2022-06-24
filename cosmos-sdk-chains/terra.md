@@ -27,7 +27,7 @@ Click the download link for your operating system. Open the downloaded file and 
 
 ### 2. Create/restore your wallet <a href="#create-a-wallet" id="create-a-wallet"></a>
 
-![Create a new wallet](<../.gitbook/assets/image (65) (1) (1).png>)
+![Create a new wallet](<../.gitbook/assets/image (65) (1) (1) (1).png>)
 
 In case you don't already have an account go ahead and follow the steps below to create a new wallet
 

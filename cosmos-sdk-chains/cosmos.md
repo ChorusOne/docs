@@ -12,7 +12,7 @@ The Cosmos Hub keeps track of balances and routes transactions through the inter
 | -------------------------------- | ---------------------------------------------------------------------------------------- |
 | **Chorus One Validator Address** | cosmosvaloper15urq2dtp9qce4fyc85m6upwm9xul3049e02707                                     |
 | **APY**                          | 9.6 %                                                                                    |
-| **Wallet**                       | [https://wallet.keplr.app/](https://wallet.keplr.app)                                    |
+| **Wallet**                       | [https://wallet.keplr.app/](https://wallet.keplr.app/)                                   |
 | **Block Explorer**               | [https://www.mintscan.io/cosmos](https://www.mintscan.io/cosmos)                         |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/cosmos](https://www.stakingrewards.com/earn/cosmos) |
 | **Unbonding Period**             | 21 Days                                                                                  |
@@ -27,7 +27,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 ### 1. Install Keplr Wallet Extension
 
-In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
+In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app/) and click on Install extension.&#x20;
 
 ![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1) (1).png>)
 
@@ -84,7 +84,7 @@ You will be shown a list of validators with whom to stake on the right side. Scr
 
 A modal with Chorus One's description will pop up. Click once on `Delegate` to enter the amount of tokens you want to stake.&#x20;
 
-![](<../.gitbook/assets/image (104).png>)
+![](<../.gitbook/assets/image (104) (1).png>)
 
 Clicking on Delegate again will take you to `Keplr` wallet for approval. Approve the transaction and you will be able to see your stake.
 

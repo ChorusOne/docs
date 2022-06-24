@@ -23,6 +23,7 @@
 * [Ethereum](staking-guides/ethereum.md)
 * [Skale](staking-guides/skale.md)
 * [The Graph](staking-guides/the-graph.md)
+* [Avalanche](evm-chains/avalanche.md)
 
 ## Solana, Substrate chains and Others <a href="#others" id="others"></a>
 

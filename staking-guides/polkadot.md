@@ -74,11 +74,11 @@ In this step, we will actually go through the process of staking which is compri
 
 Go to the [Polkadot-JS UI main page](https://polkadot.js.org/apps/#/explorer). Click the Staking link under the [Network tab at the top](https://polkadot.js.org/apps/#/staking). Click “Account actions” (on top). It may take a while to load. **If you're using a Ledger, skip the following steps and check the section below.**
 
-![](<../.gitbook/assets/image (66).png>)
+![](<../.gitbook/assets/image (66) (1).png>)
 
 **You need to bond funds to nominate a validator.** So go ahead and click  the `+ Nominator button`(top right).
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../.gitbook/assets/image (76) (1).png>)
 
 Choose your Stash and Controller accounts. It is more **secure** to choose separate stash and controller accounts. So make sure you create a separate controller account first in the same manner as you created your stash account. Again, make sure you have funds in your controller account.
 
@@ -121,7 +121,7 @@ Additionally, if you need to change the nominated validators or unbond your bala
 
 Go to manager in the left panel and install Polkadot app if you haven't already
 
-![](<../.gitbook/assets/image (53).png>)
+![](<../.gitbook/assets/image (53) (1).png>)
 
 Add your account by going to the Accounts tab in the left panel and clicking on the `Add Account`
 

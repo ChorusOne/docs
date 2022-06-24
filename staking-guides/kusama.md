@@ -65,7 +65,7 @@ Click the little _Gear Icon_ in the upper right corner and choose `Kusama Relay 
 
 Then, click on the `+` Icon followed by `Create new account`. Uncheck the box next to “Derive new account from existing” & click “Create an account from new seed”.
 
-![](<../.gitbook/assets/image (49) (1) (1) (1).png>)![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (75) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (49) (1) (1) (1).png>)![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (75) (1) (1) (1) (1).png>)
 
 Write down your mnemonic seed phrase and **securely store it**. Whoever has access to the mnemonic seed also has access to your funds! Check the box on the bottom and click “Next step”. Choose a descriptive name for your Stash account as well as a strong password. Then click “Add the account with the generated seed”.
 
@@ -90,7 +90,7 @@ Now you have two options:
 
 The second option is preferable because this lets you have independent keys. So, click `Create  new account`.
 
-![](<../.gitbook/assets/image (57).png>)
+![](<../.gitbook/assets/image (57) (1).png>)
 
 **Congratulations, you have successfully created your Kusama Controller account**. You will now also find the address in Polkadot JS under `Accounts` — reload the page if this is not the case.
 

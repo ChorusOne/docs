@@ -11,7 +11,7 @@ description: How to stake Oasis with RockX Wallet and Ledger
 | **Chorus One Validator Address** | oasis1qpn83e8hm3gdhvpfv66xj3qsetkj3ulmkugmmxn3                                               |
 | **Wallet**                       | RockX Wallet, Oasis Web Wallet                                                               |
 | **APR**                          | 15%                                                                                          |
-| **Block Explorer**               | [https://www.oasisscan.com/](https://www.oasisscan.com)                                      |
+| **Block Explorer**               | [https://www.oasisscan.com/](https://www.oasisscan.com/)                                     |
 | **Staking Rewards**              | [stakingrewards.com/earn/oasis-network/](https://www.stakingrewards.com/earn/oasis-network/) |
 
 ## How to stake $ROSE
@@ -20,13 +20,13 @@ A reliable way to stake and delegate your ROSE is using RockX.
 
 ### 1. Create/Sign in to your Account
 
-Go to [RockX Wallet for Oasis Network](https://oasis-wallet.rockx.com).
+Go to [RockX Wallet for Oasis Network](https://oasis-wallet.rockx.com/).
 
 ![](https://miro.medium.com/max/1400/0\*OjpkO5FSZs9EveyL)
 
 If you do not have an account yet, create one and fund it from either an exchange or get some ROSE tokens from someone who already holds them.
 
-![](<../.gitbook/assets/image (57) (1).png>)
+![](<../.gitbook/assets/image (57) (1) (1).png>)
 
 When you create a new wallet you will be shown 24-word mnemonic that you must **securely store!**&#x20;
 

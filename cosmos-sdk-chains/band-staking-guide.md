@@ -10,14 +10,14 @@ description: >-
 
 Band Protocol staking can be done through Ledger hardware wallets. When you stake your BAND tokens with Chorus One you can earn rewards up to 11.2% per annum.
 
-| Category                         | Details                                                                                                       |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Chorus One Validator Address** | bandvaloper15urq2dtp9qce4fyc85m6upwm9xul3049fz627w                                                            |
-| **APY**                          | 11.2 %                                                                                                        |
-| **Wallet**                       | Keplr                                                                                                         |
-| **Block Explorer**               | [https://cosmoscan.io/](https://cosmoscan.io) \| [https://www.mintscan.io/band](https://www.mintscan.io/band) |
-| **Staking Rewards**              | [https://www.stakingrewards.com/earn/band-protocol/](https://www.stakingrewards.com/earn/band-protocol/)      |
-| **Unstaking Period**             | 21 Days                                                                                                       |
+| Category                         | Details                                                                                                        |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Chorus One Validator Address** | bandvaloper15urq2dtp9qce4fyc85m6upwm9xul3049fz627w                                                             |
+| **APY**                          | 11.2 %                                                                                                         |
+| **Wallet**                       | Keplr                                                                                                          |
+| **Block Explorer**               | [https://cosmoscan.io/](https://cosmoscan.io/) \| [https://www.mintscan.io/band](https://www.mintscan.io/band) |
+| **Staking Rewards**              | [https://www.stakingrewards.com/earn/band-protocol/](https://www.stakingrewards.com/earn/band-protocol/)       |
+| **Unstaking Period**             | 21 Days                                                                                                        |
 
 The Band Protocol is a platform to aggregate and connect real-world data to smart contracts. Band seeks to deliver trusted information to cross-chain applications via its network of validator nodes.&#x20;
 
@@ -45,7 +45,7 @@ You will first need to install the Cosmos application (ATOM) from the Ledger Liv
 
 ### 3. Connect your Ledger device to your web wallet <a href="#a8cf" id="a8cf"></a>
 
-Go to the block explorer [website Cosmoscan.io ](http://cosmoscan.io)and click the `Connect` _****_ button in the upper right corner as shown in the image.
+Go to the block explorer [website Cosmoscan.io ](http://cosmoscan.io/)and click the `Connect` _****_ button in the upper right corner as shown in the image.
 
 ![](<../.gitbook/assets/image (2).png>)
 
@@ -53,7 +53,7 @@ Now choose a connection method. In our case it’s `Ledger — Cosmos`. Ledger w
 
 ![](<../.gitbook/assets/image (3).png>)
 
-Confirm the action on the[ Cosmoscan.io](http://cosmoscan.io) Band Protocol browser page to use the Ledger device in that browser. Copy the address`chrome://flags/#enable-experimental-web-platform-features` by clicking the `OK` _****_ button in the pop-up window.
+Confirm the action on the[ Cosmoscan.io](http://cosmoscan.io/) Band Protocol browser page to use the Ledger device in that browser. Copy the address`chrome://flags/#enable-experimental-web-platform-features` by clicking the `OK` _****_ button in the pop-up window.
 
 ![](<../.gitbook/assets/image (4).png>)
 

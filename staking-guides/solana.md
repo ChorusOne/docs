@@ -11,14 +11,14 @@ description: How to stake SOL using Phantom wallet
 | **Chorus One Validator Address** | Chorus6Kis8tFHA7AowrPMcRJk3LbApHTYpgSNXzY5KE                                   |
 | **Wallet**                       | Phantom, Solflare                                                              |
 | **APR**                          | 6%                                                                             |
-| **Block Explorer**               | [https://solanabeach.io/](https://solanabeach.io)                              |
+| **Block Explorer**               | [https://solanabeach.io/](https://solanabeach.io/)                             |
 | **Staking Rewards**              | [stakingrewards.com/earn/solana/](https://www.stakingrewards.com/earn/solana/) |
 
 ## How to stake
 
 ### 1. Create or Restore Phantom Wallet
 
-Navigate to [https://phantom.app/](https://phantom.app) to create or restore your Solana wallet.
+Navigate to [https://phantom.app/](https://phantom.app/) to create or restore your Solana wallet.
 
 #### Creating the wallet <a href="#creating-the-wallet" id="creating-the-wallet"></a>
 

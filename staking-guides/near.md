@@ -11,14 +11,14 @@ description: How to stake Near with Near Wall
 | **Chorus One Validator Address** | chorusone.poolv1.near                                                                                    |
 | **Wallet**                       | Near Wallet                                                                                              |
 | **APR**                          | 11.87%                                                                                                   |
-| **Block Explorer**               | [https://explorer.near.org/](https://explorer.near.org)                                                  |
+| **Block Explorer**               | [https://explorer.near.org/](https://explorer.near.org/)                                                 |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/near-protocol/](https://www.stakingrewards.com/earn/near-protocol/) |
 
 ## How to stake
 
 ### **1. Creat**e **an account** <a href="#0104" id="0104"></a>
 
-To get started with everything, you will want to go to [https://wallet.near.org/](https://wallet.near.org). If you have already created an account and you don’t want to connect a new Account to that existing one, then you can open up an incognito browser. If it’s your first time it will bring you to this page below:
+To get started with everything, you will want to go to [https://wallet.near.org/](https://wallet.near.org/). If you have already created an account and you don’t want to connect a new Account to that existing one, then you can open up an incognito browser. If it’s your first time it will bring you to this page below:
 
 ![](https://miro.medium.com/max/1274/1\*JYfTlq-PrjjxywuBfQK38g.png)
 
@@ -67,7 +67,7 @@ So here is how you get the ID you selected earlier on in the process:
 1. You keep the window open. Under no circumstances in the process should you close the window! If your computer freezes and you have to restart, you will have to start all over again!
 2. Open another window and use that to fund your one-time funding address. You can use an exchange to transfer NEAR to your account or you can borrow funds from someone who already has NEAR. A list of exchanges that currently offer $NEAR can be found [here](https://coinmarketcap.com/currencies/near-protocol/markets/).
 
-****![](<../.gitbook/assets/image (66) (1) (1).png>)****
+****![](<../.gitbook/assets/image (66) (1) (1) (1).png>)****
 
 Once you receive the near you will see an `Account Funded` screen. Congratulations your account is funded and that account ID is yours forever (or until you decide to sell it)!
 
@@ -157,7 +157,7 @@ After hitting confirm you will then get the `Success` message. Shortly after, th
 
 ### 7. (Optional) Connecting **NEAR Wallet to a Dapp on NEAR?** <a href="#6381" id="6381"></a>
 
-NEAR Wallet can also be used to connect to existing dapps on NEAR. Just head over to a NEAR Dapp. You can check out the different dApps at [Awesome NEAR](https://awesomenear.com). Look for the ‘_Sign in with NEAR Wallet Option_’. Give that a click.
+NEAR Wallet can also be used to connect to existing dapps on NEAR. Just head over to a NEAR Dapp. You can check out the different dApps at [Awesome NEAR](https://awesomenear.com/). Look for the ‘_Sign in with NEAR Wallet Option_’. Give that a click.
 
 ![](https://miro.medium.com/max/1400/1\*8Lk1sGZrJ2WOZYkUMSZhzw.png)
 

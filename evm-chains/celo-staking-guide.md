@@ -12,8 +12,8 @@ Celo is an open platform that makes financial tools accessible to anyone with a 
 | -------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **Chorus One Validator Address** | 0x81cef0668e15639D0b101bdc3067699309D73BED                                                      |
 | **APY**                          | 13.2 %                                                                                          |
-| **Wallet**                       | [https://celowallet.app/](https://celowallet.app)                                               |
-| **Block Explorer**               | [https://explorer.celo.org/](https://explorer.celo.org)                                         |
+| **Wallet**                       | [https://celowallet.app/](https://celowallet.app/)                                              |
+| **Block Explorer**               | [https://explorer.celo.org/](https://explorer.celo.org/)                                        |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/celo/](https://www.stakingrewards.com/earn/band-protocol/) |
 | **Unlocking Period**             | 3 Days                                                                                          |
 

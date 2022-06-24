@@ -26,7 +26,7 @@ Let us see an example of each of these steps using Atomex wallet
 
 ### 1. Create/log in to your account
 
-Go to [https://wallet.atomex.me/](https://wallet.atomex.me). Select `My Wallets` in case you already have an account otherwise click on `CREATE NEW WALLET`&#x20;
+Go to [https://wallet.atomex.me/](https://wallet.atomex.me/). Select `My Wallets` in case you already have an account otherwise click on `CREATE NEW WALLET`&#x20;
 
 ![](<../.gitbook/assets/image (84) (1).png>)
 
@@ -60,7 +60,7 @@ Upon the successful completion of your transaction, you will see the success mes
 
 Congratulations now you are baking your XTZ!!
 
-After you click “Delegate”, the corresponding operation is sent to the blockchain and your delegation status becomes “Pending”. You can check that everything went well in [Tezos explorer](https://tzkt.io).
+After you click “Delegate”, the corresponding operation is sent to the blockchain and your delegation status becomes “Pending”. You can check that everything went well in [Tezos explorer](https://tzkt.io/).
 
 ![Delegation Pending](https://baking-bad.org/img/delegation\_pending.png)
 

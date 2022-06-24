@@ -15,7 +15,7 @@ description: How to stake your SCRT using Keplr wallet
 | **Staking Rewards**              | [stakingrewards.com/earn/secret-network](https://www.stakingrewards.com/earn/secret-network/) |
 | **Unstaking Period**             | 21 Days                                                                                       |
 
-The Secret Network is focused on facilitating privacy-preserving smart contracts (secret contracts) to be used in decentralized finance, healthcare, [gaming](https://holdem.enigma.co), and other use cases. The project evolved from the former Enigma community and launched its Cosmos SDK-based blockchain in February 2020.
+The Secret Network is focused on facilitating privacy-preserving smart contracts (secret contracts) to be used in decentralized finance, healthcare, [gaming](https://holdem.enigma.co/), and other use cases. The project evolved from the former Enigma community and launched its Cosmos SDK-based blockchain in February 2020.
 
 {% hint style="danger" %}
 Please note that the unstake period is 21 days. This means that you can only unstake and withdraw coins to your wallet after this time has passed. We wish you profitable staking!
@@ -25,7 +25,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 ### 1. Install Keplr Wallet Extension
 
-In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
+In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app/) and click on Install extension.&#x20;
 
 ![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1) (1).png>)
 

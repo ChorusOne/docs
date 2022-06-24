@@ -13,7 +13,7 @@ The Injective Chain is a layer-2 sidechain and Cosmos Zone connected to Ethereum
 | **Delegation Address** | injvaloper14yeq3lkajldaggj28hmq8xng9xux7x5g46hezv                                                                                                                                                 |
 | **APY**                | 4.36 %                                                                                                                                                                                            |
 | **Wallet**             | Metamask, Ledger                                                                                                                                                                                  |
-| **Block Explorer**     | [https://explorer.injective.network/](https://explorer.injective.network)                                                                                                                         |
+| **Block Explorer**     | [https://explorer.injective.network/](https://explorer.injective.network/)                                                                                                                        |
 | **Staking Rewards**    | [https://www.stakingrewards.com/earn/injective-protocol/](https://www.stakingrewards.com/earn/injective-protocol/)                                                                                |
 | **Unbonding Period**   | **Withdrawal Delay:** After withdrawing, your staked funds will only become accessible after the unbonding period (1 day) has passed. It takes a further 7 days to withdraw INJ back to Ethereum. |
 
@@ -60,7 +60,7 @@ _Staking will lock your INJ for 7 days. If you choose to withdraw your tokens be
 
 A modal will appear to confirm your stake. Please note the message about the lock schedule, and then click the `Stake` button to confirm.
 
-![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Confirm the transaction in Metamask. Once your transaction is completed on Ethereum with enough confirmations, this amount will be reflected on the Pre-stake page under `Total Pre-Staked INJ`. The amount should take about 2 minutes to appear.
 
@@ -100,13 +100,13 @@ Enter the amount of KINJ tokens you would like to send from Kovan to Injective C
 
 Once your transaction is confirmed on Kovan, you should see a _Successfully Transferred_ notification appear in the bottom right of your screen. Your balances under _My Balances_ should update to reflect your transfer between networks.
 
-![](<../.gitbook/assets/image (66) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (66) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### 6. Delegate INJ Tokens to Validators
 
 Open the Validators page by clicking **Validators** from the top menu bar. Select `Chorus One` from the Validators list. In the same row under _Actions_, click **Delegate**.
 
-![](<../.gitbook/assets/image (53) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (53) (1) (1) (1) (1) (1) (1) (1).png>)
 
 This will open up a modal where you can enter the amount of INJ to delegate to this validator. Enter the amount and click **Delegate**.
 
@@ -122,4 +122,4 @@ Congratulations! Your INJ is now staked!
 
 After you have delegated INJ to validators and waited some time, you will have accrued delegation rewards which can be claimed from the Wallet page. Under the _Delegation Rewards_ table, you are shown a _Total Reward (INJ)_ balance. Click **Claim** and sign the transaction.
 
-![](<../.gitbook/assets/image (57) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (57) (1) (1) (1) (1) (1) (1).png>)

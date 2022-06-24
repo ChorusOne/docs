@@ -1,5 +1,5 @@
 ---
-description: Hot stake GRT with Chorus One Indexer
+description: How to stake GRT with Chorus One Indexer
 ---
 
 # The Graph
@@ -74,7 +74,7 @@ Again, make sure to have enough ETH in your wallet to cover transaction fees.
 
 ### 3. Delegate your GRT via the Network Beta dApp <a href="#ff01" id="ff01"></a>
 
-Now it’s time to delegate! Head over to [https://network.thegraph.com/](https://network.thegraph.com). This is the Network Beta dApp and the Graph's main Staking UI.
+Now it’s time to delegate! Head over to [https://network.thegraph.com/](https://network.thegraph.com/). This is the Network Beta dApp and the Graph's main Staking UI.
 
 Click `Connect Wallet` and `Metamask` in the pop-up. Now choose the address you want to be using in the Metamask Notification window, click `Next,` and then `Connect`.
 

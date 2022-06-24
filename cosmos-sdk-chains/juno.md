@@ -32,7 +32,7 @@ Delegation of your tokens to a validator will make them unusable for any other p
 
 Open your preferred browser and navigate to [https://juno.omniflix.co](http://juno.omniflix.co). If this is the first time you have visited the UI, you will be shown a splash screen prompting you to connect your Keplr wallet.
 
-![](<../.gitbook/assets/image (66) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (66) (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 Be sure that you have the wallet you wish to use selected by clicking the Keplr icon in your browser toolbar, selecting the silhouette in the top right of the Keplr window and then selecting the account you wish to use.
@@ -70,7 +70,7 @@ After the transaction is completed, a popup will indicate that the tokens were s
 
 Congratulations! Your tokens are now delegated to Chorus One. You can now see the delegated amount next in the validator list. You will also be given additional options to `REDELEGATE` and `UNDELEGATE` for this validator.
 
-![](<../.gitbook/assets/image (53) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (53) (1) (1) (1) (1) (1) (1).png>)
 
 ### 3. Collect staking rewards <a href="#collect-staking-rewards" id="collect-staking-rewards"></a>
 
@@ -85,7 +85,7 @@ Click on `Claim` to collect these rewards
 
 Select `All` in the rewards selector dropdown and `approve`the transaction in Keplr&#x20;
 
-![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 &#x20;
 

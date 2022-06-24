@@ -12,13 +12,13 @@ Ethereum is the home of most blockchain applications including a wide variety of
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Delegation Address** | [https://stake.lido.fi](https://stake.lido.fi)                                                                                                                                                                                                              |
 | **APY**                | 4.2 %                                                                                                                                                                                                                                                       |
-| **Wallet**             | [https://metamask.io/](https://metamask.io)                                                                                                                                                                                                                 |
-| **Block Explorer**     | [https://etherscan.io/](https://etherscan.io)                                                                                                                                                                                                               |
+| **Wallet**             | [https://metamask.io/](https://metamask.io/)                                                                                                                                                                                                                |
+| **Block Explorer**     | [https://etherscan.io/](https://etherscan.io/)                                                                                                                                                                                                              |
 | **Staking Rewards**    | [https://www.stakingrewards.com/earn/ethereum-2-0/](https://www.stakingrewards.com/earn/ethereum-2-0/)                                                                                                                                                      |
 | **Unbonding Period**   | Illiquid until transfers are enabled in phase 1.5 of [Ethereum 2.0s’ phased launch](https://stakingfac.medium.com/intro-to-ethereum-2-0-b350fbec13ec). Refer to [https://ethereum.org/en/eth2/merge/](https://ethereum.org/en/eth2/merge/) for more details |
 
 \
-By staking ETH, you are able to earn interest on your Ether and participate in the migration to what will be the potentially largest network running on Proof-of-Stake to which all applications currently running on the Ethereum chain will eventually migrate. Visit [Lido Finance](https://lido.fi) to stake with us and to learn more about Lido's staking solution.
+By staking ETH, you are able to earn interest on your Ether and participate in the migration to what will be the potentially largest network running on Proof-of-Stake to which all applications currently running on the Ethereum chain will eventually migrate. Visit [Lido Finance](https://lido.fi/) to stake with us and to learn more about Lido's staking solution.
 
 ## How to stake
 
@@ -29,7 +29,7 @@ Metamask allows you to use a hardware wallet such as a `Ledger Nano` device for 
 1. Install the latest version of Metamask browser extension and fund it with enough ETH to stake as well as cover the gas fee.
 2. Make sure Metamask is connected to `Ethereum Mainnet` network
 3. In case you want to use a hardware device for your staking operations, connect Metamask to your device via the Metamask Browser Extension.
-4. Visit [https://stake.lido.fi/](https://stake.lido.fi) and click `Connect Wallet`
+4. Visit [https://stake.lido.fi/](https://stake.lido.fi/) and click `Connect Wallet`
 5. A pop-up will prompt you to select your preferred wallet. Choose `Metamask`. You might have to unlock Metamask with your password in case it is locked.
 6. You are now presented with the main menu of the Lido UI. You can find some FAQs at the bottom of the page, make sure to read them to learn more about Lido and the risks involved in using it.
 7. You can always click on your account icon in the upper right corner of the UI to disconnect your account, copy its’ address, or explore it on Etherscan.

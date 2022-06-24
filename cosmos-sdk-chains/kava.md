@@ -11,7 +11,7 @@ description: How to Stake Kava using Keplr Wallet
 | **Chorus One Validator Address** | kavavaloper15urq2dtp9qce4fyc85m6upwm9xul3049dcs7da                                     |
 | **Wallet**                       | Keplr                                                                                  |
 | **APR**                          | 27.7%                                                                                  |
-| **Block Explorer**               | [ ](https://kavascan.com)[https://kavascan.com/](https://kavascan.com)                 |
+| **Block Explorer**               | [ ](https://kavascan.com/)[https://kavascan.com/](https://kavascan.com/)               |
 | **Staking Rewards**              | [https://www.stakingrewards.com/earn/kava/](https://www.stakingrewards.com/earn/kava/) |
 | **Unstaking Period**             | 21 Days                                                                                |
 
@@ -27,7 +27,7 @@ Please note that the unstake period is 21 days. This means that you can only uns
 
 ### 1. Install Keplr Wallet Extension
 
-In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app) and click on Install extension.&#x20;
+In case you don't have the keplr extension installed in your browser visit [https://www.keplr.app/](https://www.keplr.app/) and click on Install extension.&#x20;
 
 ![](<../.gitbook/assets/image (70) (1) (1) (1) (1) (1) (1) (1).png>)
 

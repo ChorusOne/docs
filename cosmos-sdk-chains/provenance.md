@@ -11,7 +11,7 @@ description: How to stake HASH tokens using Provenance Wallet
 | **Chorus One Validator Address** | pbvaloper15urq2dtp9qce4fyc85m6upwm9xul30496ze70t (**not live yet**) |
 | **Wallet**                       | Provenance Wallet \| Figure Wallet                                  |
 | **APR**                          | NA                                                                  |
-| **Block Explorer**               | [https://explorer.provenance.io/](https://explorer.provenance.io)   |
+| **Block Explorer**               | [https://explorer.provenance.io/](https://explorer.provenance.io/)  |
 
 The easiest way to stake your $Hash to a validator is by using the [Provenance Blockchain Explorer.](https://explorer.provenance.io)
 
