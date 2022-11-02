@@ -8,7 +8,7 @@ description: How to delegate AVAX to Chorus One validato
 
 | **Category**                     | **Details**                                                                                      |
 | -------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Chorus One Validator Address** | NodeID-LkDLSLrAW1E7Sga1zng17L1AqrtkyWTGg                                                         |
+| **Chorus One Validator Address** | <p>NodeID-LkDLSLrAW1E7Sga1zng17L1AqrtkyWTGg<br><br>NodeID-4Ubqsj2vfwdGUUYNg1jtYpkYNNLugNBQ9</p>  |
 | **Wallet**                       | [https://wallet.avax.network](https://wallet.avax.network)                                       |
 | **APR**                          | 9.2%                                                                                             |
 | **Block Explorer**               | [https://explorer.avax.network/](https://explorer.avax.network/)                                 |
@@ -47,7 +47,22 @@ Once your AVAX is on the P-chain, it's time to stake! Click **`EARN`** on the le
 
 ![](<../.gitbook/assets/image (83).png>)
 
-Since you want to delegate your AVAX, click on `DELEGATE` and then `ADD DELEGATOR`. Now you want to choose the Node you're delegating to. In order to delegate to the [@ChorusOne](https://twitter.com/ChorusOne) node, copy the below <mark style="color:blue;">`NodeID-LkDLSLrAW1E7Sga1zng17L1AqrtkyWTGg`</mark> Go to `Search Node ID` and paste it there. Click `Select`. You're almost there!
+Since you want to delegate your AVAX, click on `DELEGATE` and then `ADD DELEGATOR`. Now you want to choose the Node you're delegating to. In order to delegate to the [@ChorusOne](https://twitter.com/ChorusOne) node, \
+copy one of the following two node-ids&#x20;
+
+```
+NodeID-4Ubqsj2vfwdGUUYNg1jtYpkYNNLugNBQ9
+```
+
+```
+NodeID-LkDLSLrAW1E7Sga1zng17L1AqrtkyWTGg
+```
+
+&#x20;Go to `Search Node ID` and paste it there. Click `Select`. You're almost there!
+
+{% hint style="danger" %}
+Sometimes you might see the message that the Node is oversubscribed. Try using the other nodeID if you see this message. In case, you see this message for all the nodes, feel free to email at support@chorus.one
+{% endhint %}
 
 &#x20;
 
