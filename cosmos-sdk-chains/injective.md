@@ -18,14 +18,14 @@ Some of the prominent ecosystem players within Injective:&#x20;
 > * _Frontrunner, the first decentralized sports prediction market with zero gas fees_
 > * _White Whale, a lending protocol for the interchain_&#x20;
 
-| Category               | Details                                                                                                                                                                                           |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Delegation Address** | injvaloper14yeq3lkajldaggj28hmq8xng9xux7x5g46hezv                                                                                                                                                 |
-| **APY**                | 15.28 %                                                                                                                                                                                           |
-| **Wallet**             | Metamask, Ledger                                                                                                                                                                                  |
-| **Block Explorer**     | [https://explorer.injective.network/](https://explorer.injective.network/)                                                                                                                        |
-| **Staking Rewards**    | [https://www.stakingrewards.com/earn/injective-protocol/](https://www.stakingrewards.com/earn/injective-protocol/)                                                                                |
-| **Unbonding Period**   | **Withdrawal Delay:** After withdrawing, your staked funds will only become accessible after the unbonding period (1 day) has passed. It takes a further 7 days to withdraw INJ back to Ethereum. |
+| Category               | Details                                                                                                            |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Delegation Address** | injvaloper14yeq3lkajldaggj28hmq8xng9xux7x5g46hezv                                                                  |
+| **APY**                | 15.28 %                                                                                                            |
+| **Wallet**             | Metamask, Ledger                                                                                                   |
+| **Block Explorer**     | [https://explorer.injective.network/](https://explorer.injective.network/)                                         |
+| **Staking Rewards**    | [https://www.stakingrewards.com/earn/injective-protocol/](https://www.stakingrewards.com/earn/injective-protocol/) |
+| **Unbonding Period**   | 21 days                                                                                                            |
 
 ## How to stake <a href="#8662" id="8662"></a>
 
