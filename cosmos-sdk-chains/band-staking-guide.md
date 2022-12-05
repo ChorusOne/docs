@@ -55,12 +55,12 @@ Now choose a connection method. In our case it’s `Ledger — Cosmos`. Ledger w
 
 Confirm the action on the[ Cosmoscan.io](http://cosmoscan.io/) Band Protocol browser page to use the Ledger device in that browser. Copy the address`chrome://flags/#enable-experimental-web-platform-features` by clicking the `OK` _****_ button in the pop-up window.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Then enable the `Experimental Web Platform Features` option.\
 
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Restart your browser.
 
@@ -68,7 +68,7 @@ Restart your browser.
 
 Once opened, Cosmoscan.io will ask for permission to connect to the HID device. Click `Connect`.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 Success! The hardware wallet is successfully connected.
 
@@ -76,7 +76,7 @@ Success! The hardware wallet is successfully connected.
 
 To get the BAND address, on the main page of the Cosmoscan.io browser, click on the profile icon in the upper right corner, copy the displayed address and send tokens to it.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 After the coins arrive in the wallet, you can proceed to BAND staking.
 

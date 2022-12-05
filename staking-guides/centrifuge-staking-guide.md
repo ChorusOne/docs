@@ -36,11 +36,11 @@ Make sure to note down your mnemonic seed in a safe place! You will lose access 
 
 ![Polkadot JS Extension](<../.gitbook/assets/image (14).png>)
 
-![Add Account](<../.gitbook/assets/image (15).png>)
+![Add Account](<../.gitbook/assets/image (15) (1).png>)
 
 ![Save the mnemonic safely](<../.gitbook/assets/image (16).png>)
 
-![Select Centrifuge Mainnet](<../.gitbook/assets/image (17).png>)
+![Select Centrifuge Mainnet](<../.gitbook/assets/image (17) (1).png>)
 
 ![View the account in the My Accounts section](<../.gitbook/assets/image (18).png>)
 
@@ -63,7 +63,7 @@ To stake CFG tokens you require 2 funded wallets. Follow step 1 twice to create 
 6. Finally, click on `Bond and Nominate` and authorize the transaction by clicking on `Sign and Submit`&#x20;
 7. Your nomination will become active in the next session and your CFG tokens will start earning staking rewards
 
-![Staking](<../.gitbook/assets/image (20).png>)
+![Staking](<../.gitbook/assets/image (20) (1).png>)
 
 ![Add Nominator](<../.gitbook/assets/image (21).png>)
 
